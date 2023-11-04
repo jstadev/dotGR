@@ -1,0 +1,8 @@
+{
+  "label": "Πορτοφόλια",
+  "link": {
+    "type": "generated-index",
+    "description": "Τα πιο γνωστά πορτοφόλια στο polkadot",
+    "slug": "wallets"
+  }
+}
