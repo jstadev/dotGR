@@ -1,5 +1,3 @@
-Repo for the [Polkadot Data Knowledge Base](https://polkalytics.github.io/Polkadot-Data-Knowledge-Base/)
-
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
