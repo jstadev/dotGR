@@ -14,7 +14,9 @@ const config = {
   url: 'https://imaginative-lokum-6cfe1d.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://imaginative-lokum-6cfe1d.netlify.app/',
+
+  baseUrl: 'https://imaginative-lokum-6cfe1d.netlify.app',
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
