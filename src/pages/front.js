@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import logo from '../../static/img/dotlogo.png'
+import logo from '../../static/img/logogr.png'
 
 export default function Hello() {
   return (
