@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import logo from '../../static/img/dotlogo.png'
 
 export default function Hello() {
   return (
@@ -15,11 +16,11 @@ export default function Hello() {
         <div>
         <div class="hero-image">
   <div class="hero-text">
-    {/* <img src='../../static/img/logogr.png'/> */}
+    <img className="front-logo" src={logo} alt='logo'/>
     <h1>Polkadot Greece</h1>
     <p>Η πρωτη βιβλιοθηκη στα ελληνικα για το polkadot</p>
-    <a href='/'>
-    <button class="btn-default">βιβλιοθηκη</button>
+    <a href='/dot'>
+    <button class="btn-default">Εισοδος</button>
     </a>
     
   </div>
