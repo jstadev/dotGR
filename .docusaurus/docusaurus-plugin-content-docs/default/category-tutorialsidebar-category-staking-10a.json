@@ -1,0 +1,16 @@
+{
+  "title": "Staking",
+  "description": "a",
+  "slug": "staking",
+  "permalink": "/staking",
+  "navigation": {
+    "previous": {
+      "title": "Κοινή ασφάλεια",
+      "permalink": "/features/shared"
+    },
+    "next": {
+      "title": "Nomination Pools",
+      "permalink": "/staking/Nomination"
+    }
+  }
+}

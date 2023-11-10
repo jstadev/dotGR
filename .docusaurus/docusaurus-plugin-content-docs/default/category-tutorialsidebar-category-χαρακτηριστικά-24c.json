@@ -1,0 +1,16 @@
+{
+  "title": "Χαρακτηριστικά",
+  "description": "a",
+  "slug": "features",
+  "permalink": "/features",
+  "navigation": {
+    "previous": {
+      "title": "Talisman",
+      "permalink": "/wallets/talisman"
+    },
+    "next": {
+      "title": "Επεκτασιμότητα",
+      "permalink": "/features/expand"
+    }
+  }
+}

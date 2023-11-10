@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/expand",
+  "id": "features/expand",
+  "title": "Επεκτασιμότητα",
+  "description": "Η επεκτασιμότητα (scalability) του Polkadot αναφέρεται στη δυνατότητά του να αυξάνει την χωρητικότητά του για την επεξεργασία και την διεκπεραίωση συναλλαγών και συμβάντων σε ένα δικτυακό περιβάλλον. Η επεκτασιμότητα είναι ένα από τα βασικά χαρακτηριστικά που επιτρέπει σε ένα blockchain να αντιμετωπίσει μεγάλες χρηματοοικονομικές φορτώσεις/συναλλαγές και να εξυπηρετήσει ένα μεγάλο αριθμό χρηστών και εφαρμογών χωρίς να υποστεί πτώση της απόδοσης.",
+  "source": "@site/docs/04_features/expand.md",
+  "sourceDirName": "04_features",
+  "slug": "/features/expand",
+  "permalink": "/features/expand",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Χαρακτηριστικά",
+    "permalink": "/features"
+  },
+  "next": {
+    "title": "Forkless Upgradability",
+    "permalink": "/features/forkless"
+  }
+}

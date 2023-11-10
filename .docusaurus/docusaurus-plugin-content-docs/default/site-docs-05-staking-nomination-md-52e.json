@@ -1,0 +1,23 @@
+{
+  "unversionedId": "staking/Nomination",
+  "id": "staking/Nomination",
+  "title": "Nomination Pools",
+  "description": "Αν θέλεις να βάλεις τα DOT νομίσματά σου να δουλεύουν για σένα, δίνοντάς σου παθητικό εισόδημα, που μπορεί να φτάσει μέχρι και 16% σε ετήσια απόδοση, τότε, σίγουρα θα πρέπει να εξερευνήσεις τα \"Nomination Pools\" (σύνδεσμος στη λέξη) στο Polkadot.",
+  "source": "@site/docs/05_staking/Nomination.md",
+  "sourceDirName": "05_staking",
+  "slug": "/staking/Nomination",
+  "permalink": "/staking/Nomination",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staking",
+    "permalink": "/staking"
+  },
+  "next": {
+    "title": "Η Φιλοσοφία",
+    "permalink": "/staking/philoshophy"
+  }
+}

@@ -99,10 +99,10 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Polkadot Greece. With ♡ by CrisPap`,
+        copyright: `Copyright © ${new Date().getFullYear()} Polkadot Greece.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),

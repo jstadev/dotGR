@@ -1,0 +1,23 @@
+{
+  "unversionedId": "security/Προσωπική Ασφάλεια",
+  "id": "security/Προσωπική Ασφάλεια",
+  "title": "Προσωπική Ασφάλεια",
+  "description": "- Διατηρείτε το seed phrase μόνο σε ένα χαρτί, σε ένα μυστικό και ασφαλές μέρος.",
+  "source": "@site/docs/06_security/Προσωπική Ασφάλεια.md",
+  "sourceDirName": "06_security",
+  "slug": "/security/Προσωπική Ασφάλεια",
+  "permalink": "/security/Προσωπική Ασφάλεια",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Βασικοί Κανόνες",
+    "permalink": "/security/Basic"
+  },
+  "next": {
+    "title": "Προγραμματιστές",
+    "permalink": "/devs"
+  }
+}

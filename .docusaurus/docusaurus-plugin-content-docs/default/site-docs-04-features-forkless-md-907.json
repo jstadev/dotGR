@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/forkless",
+  "id": "features/forkless",
+  "title": "Forkless Upgradability",
+  "description": "Το \"forkless upgradability\" είναι ένα σημαντικό χαρακτηριστικό του Polkadot που αφορά την τρόπο με τον οποίο το δίκτυο μπορεί να αναβαθμιστεί χωρίς την ανάγκη για \"hard forks,\" δηλαδή αλλαγές στον κώδικα του δικτύου που απαιτούν τη συμφωνία όλων των κόμβων/nodes. Το Polkadot επιτρέπει την εκτέλεση αναβαθμίσεων χωρίς την ανάγκη για διακλάδωση (fork) του κώδικα του δικτύου, διατηρώντας τη συνοχή του.",
+  "source": "@site/docs/04_features/forkless.md",
+  "sourceDirName": "04_features",
+  "slug": "/features/forkless",
+  "permalink": "/features/forkless",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Επεκτασιμότητα",
+    "permalink": "/features/expand"
+  },
+  "next": {
+    "title": "Διαλειτουργικότητα",
+    "permalink": "/features/interoperability"
+  }
+}

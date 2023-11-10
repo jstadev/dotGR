@@ -1,0 +1,271 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Εισαγωγή",
+        "href": "/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "Το Polkadot",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Τι είναι το Polkadot",
+            "href": "/whatisdot/whatisdot",
+            "docId": "whatisdot/whatisdot"
+          }
+        ],
+        "href": "/dot"
+      },
+      {
+        "type": "category",
+        "label": " DOT Νόμισμα",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DOT Κρυπτονόμισμα",
+            "href": "/dotcoin/dotcoin",
+            "docId": "dotcoin/dotcoin"
+          }
+        ],
+        "href": "/actors"
+      },
+      {
+        "type": "category",
+        "label": "Πορτοφόλια",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "PolkadotJs",
+            "href": "/wallets/PolkadotJS",
+            "docId": "wallets/PolkadotJS"
+          },
+          {
+            "type": "link",
+            "label": "Nova Wallet",
+            "href": "/wallets/nova-wallet",
+            "docId": "wallets/nova-wallet"
+          },
+          {
+            "type": "link",
+            "label": "SubWallet",
+            "href": "/wallets/subwallet",
+            "docId": "wallets/subwallet"
+          },
+          {
+            "type": "link",
+            "label": "Talisman",
+            "href": "/wallets/talisman",
+            "docId": "wallets/talisman"
+          }
+        ],
+        "href": "/wallets"
+      },
+      {
+        "type": "category",
+        "label": "Χαρακτηριστικά",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Επεκτασιμότητα",
+            "href": "/features/expand",
+            "docId": "features/expand"
+          },
+          {
+            "type": "link",
+            "label": "Forkless Upgradability",
+            "href": "/features/forkless",
+            "docId": "features/forkless"
+          },
+          {
+            "type": "link",
+            "label": "Διαλειτουργικότητα",
+            "href": "/features/interoperability",
+            "docId": "features/interoperability"
+          },
+          {
+            "type": "link",
+            "label": "Κοινή ασφάλεια",
+            "href": "/features/shared",
+            "docId": "features/shared"
+          }
+        ],
+        "href": "/features"
+      },
+      {
+        "type": "category",
+        "label": "Staking",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Nomination Pools",
+            "href": "/staking/Nomination",
+            "docId": "staking/Nomination"
+          },
+          {
+            "type": "link",
+            "label": "Η Φιλοσοφία",
+            "href": "/staking/philoshophy",
+            "docId": "staking/philoshophy"
+          }
+        ],
+        "href": "/staking"
+      },
+      {
+        "type": "category",
+        "label": "Ασφάλεια",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Βασικοί Κανόνες",
+            "href": "/security/Basic",
+            "docId": "security/Basic"
+          },
+          {
+            "type": "link",
+            "label": "Προσωπική Ασφάλεια",
+            "href": "/security/Προσωπική Ασφάλεια",
+            "docId": "security/Προσωπική Ασφάλεια"
+          }
+        ],
+        "href": "/security"
+      },
+      {
+        "type": "category",
+        "label": "Προγραμματιστές",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Οδηγίες για Προγραμματιστές",
+            "href": "/developers/dev",
+            "docId": "developers/dev"
+          }
+        ],
+        "href": "/devs"
+      }
+    ]
+  },
+  "docs": {
+    "developers/dev": {
+      "id": "developers/dev",
+      "title": "Οδηγίες για Προγραμματιστές",
+      "description": "Είτε είστε προγραμματιστής blockchain, είτε ενδιαφέρεστε να γίνετε μέρος της κοινότητας του οικοσυστήματος, το Polkadot προσφέρει μια πλατφόρμα για όλους. Παρακάτω το εγχειρίδιο προσφέρει έναν τόπο για τους δημιουργούς και τους διαχειριστές να χρησιμοποιούν εργαλεία και για νέους μαθητές να εξερευνήσουν εκπαιδευτικό υλικό.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dotcoin/dotcoin": {
+      "id": "dotcoin/dotcoin",
+      "title": "DOT Κρυπτονόμισμα",
+      "description": "Το Polkadot διαθέτει επίσης το δικό του κρυπτονόμισμα, το DOT, το οποίο χρησιμοποιείται για διάφορους σκοπούς εντός του οικοσυστήματος.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/expand": {
+      "id": "features/expand",
+      "title": "Επεκτασιμότητα",
+      "description": "Η επεκτασιμότητα (scalability) του Polkadot αναφέρεται στη δυνατότητά του να αυξάνει την χωρητικότητά του για την επεξεργασία και την διεκπεραίωση συναλλαγών και συμβάντων σε ένα δικτυακό περιβάλλον. Η επεκτασιμότητα είναι ένα από τα βασικά χαρακτηριστικά που επιτρέπει σε ένα blockchain να αντιμετωπίσει μεγάλες χρηματοοικονομικές φορτώσεις/συναλλαγές και να εξυπηρετήσει ένα μεγάλο αριθμό χρηστών και εφαρμογών χωρίς να υποστεί πτώση της απόδοσης.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/forkless": {
+      "id": "features/forkless",
+      "title": "Forkless Upgradability",
+      "description": "Το \"forkless upgradability\" είναι ένα σημαντικό χαρακτηριστικό του Polkadot που αφορά την τρόπο με τον οποίο το δίκτυο μπορεί να αναβαθμιστεί χωρίς την ανάγκη για \"hard forks,\" δηλαδή αλλαγές στον κώδικα του δικτύου που απαιτούν τη συμφωνία όλων των κόμβων/nodes. Το Polkadot επιτρέπει την εκτέλεση αναβαθμίσεων χωρίς την ανάγκη για διακλάδωση (fork) του κώδικα του δικτύου, διατηρώντας τη συνοχή του.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/interoperability": {
+      "id": "features/interoperability",
+      "title": "Διαλειτουργικότητα",
+      "description": "Η διαλειτουργικότητα στο Polkadot αναφέρεται στη δυνατότητα του δικτύου να συνδέεται και να επικοινωνεί με άλλα blockchains, τόσο εντός του οικοσυστήματος του Polkadot όσο και με εξωτερικά δίκτυα. Αυτό είναι ένα από τα βασικά χαρακτηριστικά του Polkadot και είναι απαραίτητο για την επίτευξη του στόχου του να δημιουργήσει ένα ποικίλο, πολυ-αλυσιδιακό δίκτυο (multi-chain network).",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/shared": {
+      "id": "features/shared",
+      "title": "Κοινή ασφάλεια",
+      "description": "Μία από τις καινοτομίες που διαθέτει το Polkadot σε σχέση με αλλα blockchain δίκτυα, είναι το shared security ή αλλιώς η κοινή ασφάλεια που παρέχει στα πρότζεκτ (L1) που επιλέγουν να χτίσουν σε αυτό. Η κοινή ασφάλεια διασφαλίζει την ασφάλεια των πρότζεκτ από την αρχή χωρίς να χρειάζεται να αφιερώσουν καθόλου χρόνο και προσοχή σε αυτό. Επιτρέπει τα δίκτυα να αλληλεπιδρούν και να επικοινωνούν μεταξύ τους χωρίς κανένα πρόβλημα αποτρέποντας κάθε κινδυνο. Αυτό συμβάλλει στην σταθερότητα και ακεραιότητα του δικτύου. Η μεγάλη διαφορά είναι ότι στα υπόλοιπα δίκτυα κάθε καινούργιο blockchain πρέπει να διασφαλίσει από μόνο του την ασφάλεια του, πράγμα που είναι χρονοβόρο, αρκετά δύσκολο και καθιστά το δίκτυο πιο ευάλωτο σε επιθέσεις.",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Εισαγωγή",
+      "description": "Κάλως ήρθατε στο Polkadot Greece!",
+      "sidebar": "tutorialSidebar"
+    },
+    "security/Basic": {
+      "id": "security/Basic",
+      "title": "Βασικοί Κανόνες",
+      "description": "- Ποτέ μα ποτέ, ποτέ μην μοιραστείτε το seed phrase ή τον κωδικό του λογαριασμού σας.",
+      "sidebar": "tutorialSidebar"
+    },
+    "security/Προσωπική Ασφάλεια": {
+      "id": "security/Προσωπική Ασφάλεια",
+      "title": "Προσωπική Ασφάλεια",
+      "description": "- Διατηρείτε το seed phrase μόνο σε ένα χαρτί, σε ένα μυστικό και ασφαλές μέρος.",
+      "sidebar": "tutorialSidebar"
+    },
+    "staking/Nomination": {
+      "id": "staking/Nomination",
+      "title": "Nomination Pools",
+      "description": "Αν θέλεις να βάλεις τα DOT νομίσματά σου να δουλεύουν για σένα, δίνοντάς σου παθητικό εισόδημα, που μπορεί να φτάσει μέχρι και 16% σε ετήσια απόδοση, τότε, σίγουρα θα πρέπει να εξερευνήσεις τα \"Nomination Pools\" (σύνδεσμος στη λέξη) στο Polkadot.",
+      "sidebar": "tutorialSidebar"
+    },
+    "staking/philoshophy": {
+      "id": "staking/philoshophy",
+      "title": "Η Φιλοσοφία",
+      "description": "Τα αποκεντρωμένα δίκτυα για να επιτύχουν τη συνεργασία μεταξύ πολλών ατόμων χρησιμοποιούν την έννοια της «θεωρίας παιγνίων» ώστε να σχεδιάσουν ένα σύστημα όπου υπάρχουν ρόλοι, ευθύνες και κίνητρα για την επιτυχία των ενεργειών όλων των συμμετεχόντων στο δίκτυο. Αυτός είναι ένας από τους κύριους λόγους για τους οποίους τα κρυπτονομίσματα όπως το DOT  είναι απαραίτητα για πολλά αποκεντρωμένα συστήματα.",
+      "sidebar": "tutorialSidebar"
+    },
+    "wallets/nova-wallet": {
+      "id": "wallets/nova-wallet",
+      "title": "Nova Wallet",
+      "description": "Ένα χρήσιμο φιλικό προς τον χρήστη πορτοφόλι για το οικοσύστημα του Polkadot και του Kusama, παρέχοντας μια ομαλή εμπειρία web3 τόσο στο iOS όσο και στο Android. Το Nova Wallet υποστηρίζει το Polkadot OpenGov (συμπεριλαμβανομένων των ευέλικτων αναθέσεων), το Governance v1 (συμπεριλαμβανομένης της υποστήριξης για τη διακυβέρνηση των Parachain), το Staking, τη διαχείριση NFT, τις μεταφορές XCM, την υποστήριξη Parity Signer & Ledger, την υποστήριξη DApp με το Polkadot JS και τον Metamask/EVM.",
+      "sidebar": "tutorialSidebar"
+    },
+    "wallets/PolkadotJS": {
+      "id": "wallets/PolkadotJS",
+      "title": "PolkadotJs",
+      "description": "Χρησιμοποίησε το PolkadotJS αποκλειστικά και μόνο αν είσαι εξειδικευμένος χρήστης στον κόσμο του blockchain αλλά και του προγραμματισμού.",
+      "sidebar": "tutorialSidebar"
+    },
+    "wallets/subwallet": {
+      "id": "wallets/subwallet",
+      "title": "SubWallet",
+      "description": "Το πορτοφόλι Subwallet ανιχνεύει, αποστέλλει, λαμβάνει και παρακολουθεί πολλαπλά κεφάλαια σε πάνω από 150 δίκτυα. Παρέχει δυνατότητα λογαριασμού με seed phrase, ιδιωτικό κλειδί, QR code και JSON αρχείο, εισαγωγή κρυπτονομισμάτων & NFT, μεταφορές μέσω XCM, διαχείριση NFT, υποστήριξη Parity Signer & Ledger, υποστήριξη EVM DApp, συμβατότητα με το MetaMask, εισαγωγή χρημάτων από ρευστό, ανίχνευση απάτης μαζί με ιστορικό συναλλαγών.",
+      "sidebar": "tutorialSidebar"
+    },
+    "wallets/talisman": {
+      "id": "wallets/talisman",
+      "title": "Talisman",
+      "description": "Το συγκεκριμένο πορτοφολι προσφέρει έναν πολύ καλύτερο τρόπο για να εξερευνήσετε το κόσμο του blockchain. Διατηρήστε τα κεφάλαιά σας ασφαλή, διαχειριστείτε το χαρτοφυλάκιό σας και εξερευνήστε εφαρμογές του Polkadot και του Ethereum. Το Talisman αλληλεπιδρά με εφαρμογές Web3, αποθηκεύει τα αγαπημένα σας κρυπτονομίσματα και διαχειριζεται τους λογαριασμούς σας σε πάνω από 150+ δίκτυα Substrate και EVM. Υποστηρίζει NFT, ledger, εισαγωγή χρημάτων σε ρευστό κ παρέχει ανάλυση απόδοσης χαρτοφυλακίου.",
+      "sidebar": "tutorialSidebar"
+    },
+    "whatisdot/whatisdot": {
+      "id": "whatisdot/whatisdot",
+      "title": "Τι είναι το Polkadot",
+      "description": "Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συνδέει αποτελεσματικά άλλα blockchains. Στόχος του Polkadot είναι να βελτιστοποιήσει την επεκτασιμότητα, τη διαλειτουργικότητα και την ομαδική ασφάλεια για όλα τα δίκτυα που συνδέονται σε αυτό.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

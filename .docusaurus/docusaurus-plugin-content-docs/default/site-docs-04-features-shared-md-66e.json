@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/shared",
+  "id": "features/shared",
+  "title": "Κοινή ασφάλεια",
+  "description": "Μία από τις καινοτομίες που διαθέτει το Polkadot σε σχέση με αλλα blockchain δίκτυα, είναι το shared security ή αλλιώς η κοινή ασφάλεια που παρέχει στα πρότζεκτ (L1) που επιλέγουν να χτίσουν σε αυτό. Η κοινή ασφάλεια διασφαλίζει την ασφάλεια των πρότζεκτ από την αρχή χωρίς να χρειάζεται να αφιερώσουν καθόλου χρόνο και προσοχή σε αυτό. Επιτρέπει τα δίκτυα να αλληλεπιδρούν και να επικοινωνούν μεταξύ τους χωρίς κανένα πρόβλημα αποτρέποντας κάθε κινδυνο. Αυτό συμβάλλει στην σταθερότητα και ακεραιότητα του δικτύου. Η μεγάλη διαφορά είναι ότι στα υπόλοιπα δίκτυα κάθε καινούργιο blockchain πρέπει να διασφαλίσει από μόνο του την ασφάλεια του, πράγμα που είναι χρονοβόρο, αρκετά δύσκολο και καθιστά το δίκτυο πιο ευάλωτο σε επιθέσεις.",
+  "source": "@site/docs/04_features/shared.md",
+  "sourceDirName": "04_features",
+  "slug": "/features/shared",
+  "permalink": "/features/shared",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Διαλειτουργικότητα",
+    "permalink": "/features/interoperability"
+  },
+  "next": {
+    "title": "Staking",
+    "permalink": "/staking"
+  }
+}

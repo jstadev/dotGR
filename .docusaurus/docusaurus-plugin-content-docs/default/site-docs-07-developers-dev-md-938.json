@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/dev",
+  "id": "developers/dev",
+  "title": "Οδηγίες για Προγραμματιστές",
+  "description": "Είτε είστε προγραμματιστής blockchain, είτε ενδιαφέρεστε να γίνετε μέρος της κοινότητας του οικοσυστήματος, το Polkadot προσφέρει μια πλατφόρμα για όλους. Παρακάτω το εγχειρίδιο προσφέρει έναν τόπο για τους δημιουργούς και τους διαχειριστές να χρησιμοποιούν εργαλεία και για νέους μαθητές να εξερευνήσουν εκπαιδευτικό υλικό.",
+  "source": "@site/docs/07_developers/dev.md",
+  "sourceDirName": "07_developers",
+  "slug": "/developers/dev",
+  "permalink": "/developers/dev",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Προγραμματιστές",
+    "permalink": "/devs"
+  }
+}

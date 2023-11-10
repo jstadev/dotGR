@@ -1,0 +1,23 @@
+{
+  "unversionedId": "whatisdot/whatisdot",
+  "id": "whatisdot/whatisdot",
+  "title": "Τι είναι το Polkadot",
+  "description": "Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συνδέει αποτελεσματικά άλλα blockchains. Στόχος του Polkadot είναι να βελτιστοποιήσει την επεκτασιμότητα, τη διαλειτουργικότητα και την ομαδική ασφάλεια για όλα τα δίκτυα που συνδέονται σε αυτό.",
+  "source": "@site/docs/01_whatisdot/whatisdot.md",
+  "sourceDirName": "01_whatisdot",
+  "slug": "/whatisdot/whatisdot",
+  "permalink": "/whatisdot/whatisdot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Το Polkadot",
+    "permalink": "/dot"
+  },
+  "next": {
+    "title": " DOT Νόμισμα",
+    "permalink": "/actors"
+  }
+}

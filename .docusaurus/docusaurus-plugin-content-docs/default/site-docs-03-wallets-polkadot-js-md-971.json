@@ -1,0 +1,23 @@
+{
+  "unversionedId": "wallets/PolkadotJS",
+  "id": "wallets/PolkadotJS",
+  "title": "PolkadotJs",
+  "description": "Χρησιμοποίησε το PolkadotJS αποκλειστικά και μόνο αν είσαι εξειδικευμένος χρήστης στον κόσμο του blockchain αλλά και του προγραμματισμού.",
+  "source": "@site/docs/03_wallets/PolkadotJS.md",
+  "sourceDirName": "03_wallets",
+  "slug": "/wallets/PolkadotJS",
+  "permalink": "/wallets/PolkadotJS",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Πορτοφόλια",
+    "permalink": "/wallets"
+  },
+  "next": {
+    "title": "Nova Wallet",
+    "permalink": "/wallets/nova-wallet"
+  }
+}

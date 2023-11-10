@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/2023/09/23/blog copy",
+  "source": "@site/blog/2023-09-23-blog copy.md",
+  "title": "Another one",
+  "description": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume",
+  "date": "2023-09-23T00:00:00.000Z",
+  "formattedDate": "September 23, 2023",
+  "tags": [],
+  "readingTime": 0.13,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "CrisPap",
+      "title": "Spreading the gospel of decentralization",
+      "url": "https://twitter.com",
+      "imageURL": "https://pbs.twimg.com/profile_images/1651972213212413953/Umoz5uB9_400x400.jpg",
+      "key": "crp"
+    }
+  ],
+  "frontMatter": {
+    "title": "Another one",
+    "authors": "crp",
+    "tags": []
+  },
+  "nextItem": {
+    "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
+    "permalink": "/blog/2023/08/18/blog"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "dotcoin/dotcoin",
+  "id": "dotcoin/dotcoin",
+  "title": "DOT Κρυπτονόμισμα",
+  "description": "Το Polkadot διαθέτει επίσης το δικό του κρυπτονόμισμα, το DOT, το οποίο χρησιμοποιείται για διάφορους σκοπούς εντός του οικοσυστήματος.",
+  "source": "@site/docs/02_dotcoin/dotcoin.md",
+  "sourceDirName": "02_dotcoin",
+  "slug": "/dotcoin/dotcoin",
+  "permalink": "/dotcoin/dotcoin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": " DOT Νόμισμα",
+    "permalink": "/actors"
+  },
+  "next": {
+    "title": "Πορτοφόλια",
+    "permalink": "/wallets"
+  }
+}

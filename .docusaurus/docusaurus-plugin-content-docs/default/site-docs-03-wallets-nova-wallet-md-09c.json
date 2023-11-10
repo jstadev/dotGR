@@ -1,0 +1,23 @@
+{
+  "unversionedId": "wallets/nova-wallet",
+  "id": "wallets/nova-wallet",
+  "title": "Nova Wallet",
+  "description": "Ένα χρήσιμο φιλικό προς τον χρήστη πορτοφόλι για το οικοσύστημα του Polkadot και του Kusama, παρέχοντας μια ομαλή εμπειρία web3 τόσο στο iOS όσο και στο Android. Το Nova Wallet υποστηρίζει το Polkadot OpenGov (συμπεριλαμβανομένων των ευέλικτων αναθέσεων), το Governance v1 (συμπεριλαμβανομένης της υποστήριξης για τη διακυβέρνηση των Parachain), το Staking, τη διαχείριση NFT, τις μεταφορές XCM, την υποστήριξη Parity Signer & Ledger, την υποστήριξη DApp με το Polkadot JS και τον Metamask/EVM.",
+  "source": "@site/docs/03_wallets/nova-wallet.md",
+  "sourceDirName": "03_wallets",
+  "slug": "/wallets/nova-wallet",
+  "permalink": "/wallets/nova-wallet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PolkadotJs",
+    "permalink": "/wallets/PolkadotJS"
+  },
+  "next": {
+    "title": "SubWallet",
+    "permalink": "/wallets/subwallet"
+  }
+}

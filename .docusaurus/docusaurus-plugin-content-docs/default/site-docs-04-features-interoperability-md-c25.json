@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/interoperability",
+  "id": "features/interoperability",
+  "title": "Διαλειτουργικότητα",
+  "description": "Η διαλειτουργικότητα στο Polkadot αναφέρεται στη δυνατότητα του δικτύου να συνδέεται και να επικοινωνεί με άλλα blockchains, τόσο εντός του οικοσυστήματος του Polkadot όσο και με εξωτερικά δίκτυα. Αυτό είναι ένα από τα βασικά χαρακτηριστικά του Polkadot και είναι απαραίτητο για την επίτευξη του στόχου του να δημιουργήσει ένα ποικίλο, πολυ-αλυσιδιακό δίκτυο (multi-chain network).",
+  "source": "@site/docs/04_features/interoperability.md",
+  "sourceDirName": "04_features",
+  "slug": "/features/interoperability",
+  "permalink": "/features/interoperability",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Forkless Upgradability",
+    "permalink": "/features/forkless"
+  },
+  "next": {
+    "title": "Κοινή ασφάλεια",
+    "permalink": "/features/shared"
+  }
+}
