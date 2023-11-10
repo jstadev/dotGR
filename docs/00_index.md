@@ -17,7 +17,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
     <li id="carousel__slide1"
         tabindex="0"
         class="carousel__slide">
-        <a href="https://twitter.com" target="_blank">
+        <a href="https://twitter.com/alice_und_bob" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-1">
         </div>
@@ -27,7 +27,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>12Κ</b><br/>Followers</p>
          </div>
          </a>
-             <a href="https://twitter.com" target="_blank">
+             <a href="https://twitter.com/BillLaboon" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-2">
         </div>
@@ -36,7 +36,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="following"><b >929</b><br/>Following</p>
         <p class="followers"><b>20.4Κ</b><br/>Followers</p>
          </div>
-         </a>  <a href="https://twitter.com" target="_blank">
+         </a>  <a href="https://twitter.com/TheKusamarian" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-3">
         </div>
@@ -45,7 +45,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="following"><b >130</b><br/>Following</p>
         <p class="followers"><b>20.6K</b><br/>Followers</p>
          </div>
-         </a>  <a href="https://twitter.com" target="_blank">
+         </a>  <a href="https://twitter.com/0xgoku_" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-4">
         </div>
@@ -65,7 +65,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
     <li id="carousel__slide2"
         tabindex="0"
         class="carousel__slide">
-         <a href="https://twitter.com" target="_blank">
+         <a href="https://twitter.com/rphmeier" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-5">
         </div>
@@ -75,7 +75,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>21.1Κ</b><br/>Followers</p>
          </div>
          </a>
-             <a href="https://twitter.com" target="_blank">
+             <a href="https://twitter.com/mrkusama" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-6">
         </div>
@@ -84,7 +84,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="following"><b>222</b><br/>Following</p>
         <p class="followers"><b>3084</b><br/>Followers</p>
          </div>
-         </a>  <a href="https://twitter.com" target="_blank">
+         </a>  <a href="https://twitter.com/CryptoCappex" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-7">
         </div>
@@ -93,7 +93,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="following"><b >299</b><br/>Following</p>
         <p class="followers"><b>2020</b><br/>Followers</p>
          </div>
-         </a>  <a href="https://twitter.com" target="_blank">
+         </a>  <a href="https://twitter.com/GldnCalf" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-8">
         </div>
@@ -112,7 +112,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
     <li id="carousel__slide3"
         tabindex="0"
         class="carousel__slide">
-<a href="https://twitter.com" target="_blank">
+<a href="https://twitter.com/filippoweb3" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-9">
         </div>
@@ -122,7 +122,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>1774</b><br/>Followers</p>
          </div>
          </a>
-         <a href="https://twitter.com" target="_blank">
+         <a href="https://twitter.com/csaint02" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-10">
         </div>
@@ -132,7 +132,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>3951</b><br/>Followers</p>
          </div>
          </a>
-         <a href="https://twitter.com" target="_blank">
+         <a href="https://twitter.com/KusamaNFT" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-11">
         </div>
@@ -142,7 +142,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>1085</b><br/>Followers</p>
          </div>
          </a>
-         <a href="https://twitter.com" target="_blank">
+         <a href="https://twitter.com/guinnessstache" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-12">
         </div>
