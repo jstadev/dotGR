@@ -52,6 +52,7 @@
 
 html, body {
   height: 100vh !important;
+  overflow: hidden !important;
 }
 
 body {
@@ -636,6 +637,35 @@ margin-bottom: 5px;
 }
 
 
+
+
 .toggleButton_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
   display: none !important;
 }
+
+@media only screen and (max-width: 600px) {
+  body{
+    overflow-y: hidden !important;
+    width: 100vw;
+  }
+
+  body::before, 
+body::after {
+
+overflow-y: hidden;
+}
+
+  .fronttext h1{
+    font-size: 16px ;
+    max-width: 100% ;
+    text-align: center;
+  }
+
+  .fronttext p{
+    font-size: 16px ;
+    
+    text-align: center;
+  }
+}
+
+
