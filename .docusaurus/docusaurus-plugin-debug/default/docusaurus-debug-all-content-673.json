@@ -401,7 +401,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "a",
                   "slug": "dot",
                   "permalink": "/dot"
                 }
@@ -478,7 +477,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "a",
                   "slug": "features",
                   "permalink": "/features"
                 }
@@ -500,7 +498,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "a",
                   "slug": "staking",
                   "permalink": "/staking"
                 }
@@ -522,7 +519,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "a",
                   "slug": "security",
                   "permalink": "/security"
                 }
@@ -540,7 +536,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "a",
                   "slug": "devs",
                   "permalink": "/devs"
                 }

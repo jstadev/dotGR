@@ -50,11 +50,15 @@
   --ifm-color-primary-lightest: #ebf3ff;
 }
 
+html, body {
+  height: auto !important;
+}
+
 body {
   background: -moz-linear-gradient(45deg, #004d9f 0%, #0d126e 29%, #1900a6 66%, #ffa079 100%);
   background: -webkit-linear-gradient(45deg, #000273 0%,#0d126e 29%,#1900a6 66%,#ffa079 100%);
   background: linear-gradient(45deg, #000273 0%,#0d126e 29%,#1900a6 66%,#ffa079 100%);
-  background-size: 100vw 100vh;
+  background-size: contain;
   -webkit-animation: Gradient 15s ease infinite;
 -moz-animation: Gradient 15s ease infinite;
 animation: Gradient 15s ease infinite;
@@ -277,7 +281,7 @@ ol, li {
 
 .carousel {
   position: relative;
-  padding-top: 22%;
+  padding-top: 26%;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
   margin-top: 45px;
@@ -294,6 +298,8 @@ ol, li {
   counter-reset: item;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
+  width: 100vw;
+  max-width: 1000px;
 }
 
 .carousel__slide {
@@ -406,7 +412,7 @@ ol, li {
 .carousel::before,
 .carousel::after {
   content: '';
-  z-index: 1;
+  z-index: 1000;
   background-color: #333;
   background-size: 1.5rem 1.5rem;
   background-repeat: no-repeat;
@@ -416,6 +422,7 @@ ol, li {
   line-height: 4rem;
   text-align: center;
   pointer-events: none;
+  display: none;
 }
 
 .carousel::before {
@@ -430,7 +437,7 @@ ol, li {
   /* background: #0B0040; */
   width: 205px;
   /* min-height: 250px; */
-  z-index: 999;
+  z-index: 99;
   cursor: pointer;
   position: relative;
   margin: 10px;
