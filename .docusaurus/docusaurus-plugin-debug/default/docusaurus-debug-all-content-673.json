@@ -52,7 +52,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": " DOT Νόμισμα",
-                "permalink": "/actors"
+                "permalink": "/dotcoin"
               },
               "next": {
                 "title": "Πορτοφόλια",
@@ -377,7 +377,7 @@
               },
               "next": {
                 "title": " DOT Νόμισμα",
-                "permalink": "/actors"
+                "permalink": "/dotcoin"
               }
             }
           ],
@@ -419,8 +419,8 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "actors",
-                  "permalink": "/actors"
+                  "slug": "dotcoin",
+                  "permalink": "/dotcoin"
                 }
               },
               {

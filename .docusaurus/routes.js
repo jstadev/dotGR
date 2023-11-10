@@ -69,17 +69,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'bed'),
+    component: ComponentCreator('/', '3bb'),
     routes: [
       {
         path: '/',
         component: ComponentCreator('/', '057'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/actors',
-        component: ComponentCreator('/actors', 'c9f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -98,6 +92,12 @@ export default [
       {
         path: '/dot',
         component: ComponentCreator('/dot', '0c6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/dotcoin',
+        component: ComponentCreator('/dotcoin', '8b2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
