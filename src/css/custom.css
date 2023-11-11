@@ -648,6 +648,19 @@ margin-bottom: 5px;
     width: 100vw;
   }
 
+  .carousel {
+    padding-top: 100%;
+  }
+
+  .following, .followers{
+    display: ;
+  }
+
+  .profile{
+    width: 40%;
+    margin-bottom: 50px;
+  }
+
   .fronttext h1{
     font-size: 16px ;
     max-width: 100% ;
