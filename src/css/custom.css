@@ -51,7 +51,7 @@
 }
 
 html, body {
-  height: auto !important;
+  height: 100% !important;
   /* overflow-y: hidden !important; */
 }
 
@@ -70,6 +70,7 @@ align-items: stretch;
 justify-content: space-evenly;
 position: relative; 
 overflow-x: hidden !important;
+height: auto;
 }
 
 body::before, 

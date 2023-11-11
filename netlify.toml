@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "https://polkadotgreece.com"
+    to = "https://polkadotgreece.com/front"
+    status = 301
+    force = true
