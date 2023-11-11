@@ -10,7 +10,7 @@ Tο Polkadooooooooot είναι ένα blockchain layer-0 proof-of-stake,  πο�
 Η αξιόπιστη συνεργασία μεταξύ αυτών των αποκεντρωμένων εφαρμογών είναι αυτό που καθιστά το Polkadot ένα ιδανικό οικοσύστημα για τη δημιουργία ενός μέλλοντος web3.
 
 
-# Social Accounts
+# Ακολούθησε στο Χ
 
 <section class="carousel" aria-label="Gallery">
   <ol class="carousel__viewport">

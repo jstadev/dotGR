@@ -4,7 +4,10 @@ import logo from '../../static/img/logogr.png'
 
 export default function Hello() {
   return (
-    <Layout title="Hello" description="Hello React Page">
+    <Layout title="PolkadotGreece" description="Η πρώτη βιβλιοθήκη για το Polkadot">
+      <style>
+        
+      </style>
       <div
         style={{
           display: 'flex',
@@ -21,7 +24,7 @@ export default function Hello() {
     <h1>Polkadot Greece</h1>
     <p>Η πρωτη βιβλιοθηκη στα<br/> ελληνικα για το polkadot</p>
     </div>
-    <a href='/dot'>
+    <a href='/'>
     <button class="btn-default">Εισοδος</button>
     </a>
     

@@ -10,7 +10,7 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
 Η αξιόπιστη συνεργασία μεταξύ αυτών των αποκεντρωμένων εφαρμογών είναι αυτό που καθιστά το Polkadot ένα ιδανικό οικοσύστημα για τη δημιουργία ενός μέλλοντος web3.
 
 
-# Social Accounts
+# Ακολούθησε στο Χ
 
 <section class="carousel" aria-label="Gallery">
   <ol class="carousel__viewport">
@@ -157,6 +157,55 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
          class="carousel__prev">Go to previous slide</a>
       <a href="#carousel__slide4"
          class="carousel__next">Go to next slide</a>
+    </li>
+<li id="carousel__slide4"
+        tabindex="0"
+        class="carousel__slide">
+         <a href="https://twitter.com/guinnessstache" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-12">
+        </div>
+        <p class="username">kala</p>
+        <p class="bio">kala</p>
+        <p class="following"><b >kala</b><br/>Following</p>
+        <p class="followers"><b>4096</b><br/>Followers</p>
+         </div>
+         </a>
+           <a href="https://twitter.com/guinnessstache" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-12">
+        </div>
+        <p class="username">kala</p>
+        <p class="bio">kala</p>
+        <p class="following"><b >kala</b><br/>Following</p>
+        <p class="followers"><b>4096</b><br/>Followers</p>
+         </div>
+         </a>
+           <a href="https://twitter.com/guinnessstache" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-12">
+        </div>
+        <p class="username">kala</p>
+        <p class="bio">kala</p>
+        <p class="following"><b >kala</b><br/>Following</p>
+        <p class="followers"><b>4096</b><br/>Followers</p>
+         </div>
+         </a>
+           <a href="https://twitter.com/guinnessstache" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-12">
+        </div>
+        <p class="username">GuinnessStache</p>
+        <p class="bio">Investor and staker. $dot $trac $otp</p>
+        <p class="following"><b >3028</b><br/>Following</p>
+        <p class="followers"><b>4096</b><br/>Followers</p>
+         </div>
+         </a>
+      <div class="carousel__snapper"></div>
+      <a href="#carousel__slide3"
+         class="carousel__prev">Go to previous slide</a>
+      <a href="#carousel__slide1"
+         class="carousel__next">Go to first slide</a>
     </li>
   </ol>
 </section>
