@@ -6,7 +6,7 @@
   "source": "@site/docs/04_features/forkless.md",
   "sourceDirName": "04_features",
   "slug": "/features/forkless",
-  "permalink": "/dot/features/forkless",
+  "permalink": "/features/forkless",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Επεκτασιμότητα",
-    "permalink": "/dot/features/expand"
+    "permalink": "/features/expand"
   },
   "next": {
     "title": "Διαλειτουργικότητα",
-    "permalink": "/dot/features/interoperability"
+    "permalink": "/features/interoperability"
   }
 }

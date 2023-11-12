@@ -6,7 +6,7 @@
   "source": "@site/docs/06_security/Basic.md",
   "sourceDirName": "06_security",
   "slug": "/security/Basic",
-  "permalink": "/dot/security/Basic",
+  "permalink": "/security/Basic",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Ασφάλεια",
-    "permalink": "/dot/security"
+    "permalink": "/security"
   },
   "next": {
     "title": "Προσωπική Ασφάλεια",
-    "permalink": "/dot/security/Προσωπική Ασφάλεια"
+    "permalink": "/security/Προσωπική Ασφάλεια"
   }
 }
