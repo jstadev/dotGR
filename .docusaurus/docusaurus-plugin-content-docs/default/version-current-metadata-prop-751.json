@@ -210,7 +210,7 @@
     "index": {
       "id": "index",
       "title": "Εισαγωγή",
-      "description": "Κάλως ήρθατε στο Polkadot Greece!",
+      "description": "Καλώς ήρθατε στο Polkadot Greece.",
       "sidebar": "tutorialSidebar"
     },
     "security/Basic": {
