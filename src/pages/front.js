@@ -18,7 +18,7 @@ export default function frontpage() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          height: '50vh',
+          height: '87vh',
           fontSize: '20px',
         }}>
         <div>
