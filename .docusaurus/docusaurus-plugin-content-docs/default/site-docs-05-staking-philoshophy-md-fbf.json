@@ -6,7 +6,7 @@
   "source": "@site/docs/05_staking/philoshophy.md",
   "sourceDirName": "05_staking",
   "slug": "/staking/philoshophy",
-  "permalink": "/staking/philoshophy",
+  "permalink": "/docs/staking/philoshophy",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nomination Pools",
-    "permalink": "/staking/Nomination"
+    "permalink": "/docs/staking/Nomination"
   },
   "next": {
     "title": "Ασφάλεια",
-    "permalink": "/security"
+    "permalink": "/docs/security"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "title": "Προγραμματιστές",
+  "slug": "devs",
+  "permalink": "/docs/devs",
+  "navigation": {
+    "previous": {
+      "title": "Προσωπική Ασφάλεια",
+      "permalink": "/docs/security/Προσωπική Ασφάλεια"
+    },
+    "next": {
+      "title": "Οδηγίες για Προγραμματιστές",
+      "permalink": "/docs/developers/dev"
+    }
+  }
+}

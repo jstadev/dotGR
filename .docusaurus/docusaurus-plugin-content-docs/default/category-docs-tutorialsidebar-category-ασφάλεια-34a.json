@@ -1,0 +1,15 @@
+{
+  "title": "Ασφάλεια",
+  "slug": "security",
+  "permalink": "/docs/security",
+  "navigation": {
+    "previous": {
+      "title": "Η Φιλοσοφία",
+      "permalink": "/docs/staking/philoshophy"
+    },
+    "next": {
+      "title": "Βασικοί Κανόνες",
+      "permalink": "/docs/security/Basic"
+    }
+  }
+}

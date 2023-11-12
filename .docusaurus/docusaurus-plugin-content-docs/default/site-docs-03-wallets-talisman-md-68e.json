@@ -6,7 +6,7 @@
   "source": "@site/docs/03_wallets/talisman.md",
   "sourceDirName": "03_wallets",
   "slug": "/wallets/talisman",
-  "permalink": "/wallets/talisman",
+  "permalink": "/docs/wallets/talisman",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SubWallet",
-    "permalink": "/wallets/subwallet"
+    "permalink": "/docs/wallets/subwallet"
   },
   "next": {
     "title": "Χαρακτηριστικά",
-    "permalink": "/features"
+    "permalink": "/docs/features"
   }
 }

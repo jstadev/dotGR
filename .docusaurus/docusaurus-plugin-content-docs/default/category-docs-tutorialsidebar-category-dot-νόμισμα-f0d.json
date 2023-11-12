@@ -1,0 +1,15 @@
+{
+  "title": " DOT Νόμισμα",
+  "slug": "dotcoin",
+  "permalink": "/docs/dotcoin",
+  "navigation": {
+    "previous": {
+      "title": "Τι είναι το Polkadot",
+      "permalink": "/docs/whatisdot/whatisdot"
+    },
+    "next": {
+      "title": "DOT Κρυπτονόμισμα",
+      "permalink": "/docs/dotcoin/dotcoin"
+    }
+  }
+}

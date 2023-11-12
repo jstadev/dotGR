@@ -1,128 +1,128 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/docs/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "developers/dev",
-              "path": "/developers/dev",
+              "path": "/docs/developers/dev",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dotcoin/dotcoin",
-              "path": "/dotcoin/dotcoin",
+              "path": "/docs/dotcoin/dotcoin",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "features/expand",
-              "path": "/features/expand",
+              "path": "/docs/features/expand",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "features/forkless",
-              "path": "/features/forkless",
+              "path": "/docs/features/forkless",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "features/interoperability",
-              "path": "/features/interoperability",
+              "path": "/docs/features/interoperability",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "features/shared",
-              "path": "/features/shared",
+              "path": "/docs/features/shared",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "index",
-              "path": "/docs",
+              "path": "/docs/docs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security/Basic",
-              "path": "/security/Basic",
+              "path": "/docs/security/Basic",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security/Προσωπική Ασφάλεια",
-              "path": "/security/Προσωπική Ασφάλεια",
+              "path": "/docs/security/Προσωπική Ασφάλεια",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "staking/Nomination",
-              "path": "/staking/Nomination",
+              "path": "/docs/staking/Nomination",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "staking/philoshophy",
-              "path": "/staking/philoshophy",
+              "path": "/docs/staking/philoshophy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallets/nova-wallet",
-              "path": "/wallets/nova-wallet",
+              "path": "/docs/wallets/nova-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallets/PolkadotJS",
-              "path": "/wallets/PolkadotJS",
+              "path": "/docs/wallets/PolkadotJS",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallets/subwallet",
-              "path": "/wallets/subwallet",
+              "path": "/docs/wallets/subwallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallets/talisman",
-              "path": "/wallets/talisman",
+              "path": "/docs/wallets/talisman",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "whatisdot/whatisdot",
-              "path": "/whatisdot/whatisdot",
+              "path": "/docs/whatisdot/whatisdot",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dot",
-              "path": "/dot",
+              "path": "/docs/dot",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dotcoin",
-              "path": "/dotcoin",
+              "path": "/docs/dotcoin",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "wallets",
-              "path": "/wallets",
+              "path": "/docs/wallets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "features",
-              "path": "/features",
+              "path": "/docs/features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "staking",
-              "path": "/staking",
+              "path": "/docs/staking",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security",
-              "path": "/security",
+              "path": "/docs/security",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "devs",
-              "path": "/devs",
+              "path": "/docs/devs",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -130,7 +130,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs",
+                "path": "/docs/docs",
                 "label": "index"
               }
             }

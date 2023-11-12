@@ -6,7 +6,7 @@
   "source": "@site/docs/07_developers/dev.md",
   "sourceDirName": "07_developers",
   "slug": "/developers/dev",
-  "permalink": "/developers/dev",
+  "permalink": "/docs/developers/dev",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,6 +14,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Προγραμματιστές",
-    "permalink": "/devs"
+    "permalink": "/docs/devs"
   }
 }

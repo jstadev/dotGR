@@ -6,7 +6,7 @@
   "source": "@site/docs/04_features/interoperability.md",
   "sourceDirName": "04_features",
   "slug": "/features/interoperability",
-  "permalink": "/features/interoperability",
+  "permalink": "/docs/features/interoperability",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Forkless Upgradability",
-    "permalink": "/features/forkless"
+    "permalink": "/docs/features/forkless"
   },
   "next": {
     "title": "Κοινή ασφάλεια",
-    "permalink": "/features/shared"
+    "permalink": "/docs/features/shared"
   }
 }

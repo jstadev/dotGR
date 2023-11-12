@@ -6,7 +6,7 @@
   "source": "@site/docs/05_staking/Nomination.md",
   "sourceDirName": "05_staking",
   "slug": "/staking/Nomination",
-  "permalink": "/staking/Nomination",
+  "permalink": "/docs/staking/Nomination",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Staking",
-    "permalink": "/staking"
+    "permalink": "/docs/staking"
   },
   "next": {
     "title": "Η Φιλοσοφία",
-    "permalink": "/staking/philoshophy"
+    "permalink": "/docs/staking/philoshophy"
   }
 }

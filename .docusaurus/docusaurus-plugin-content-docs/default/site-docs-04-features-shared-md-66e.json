@@ -6,7 +6,7 @@
   "source": "@site/docs/04_features/shared.md",
   "sourceDirName": "04_features",
   "slug": "/features/shared",
-  "permalink": "/features/shared",
+  "permalink": "/docs/features/shared",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Διαλειτουργικότητα",
-    "permalink": "/features/interoperability"
+    "permalink": "/docs/features/interoperability"
   },
   "next": {
     "title": "Staking",
-    "permalink": "/staking"
+    "permalink": "/docs/staking"
   }
 }

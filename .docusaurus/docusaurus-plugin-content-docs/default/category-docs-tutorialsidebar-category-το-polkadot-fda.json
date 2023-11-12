@@ -1,0 +1,15 @@
+{
+  "title": "Το Polkadot",
+  "slug": "dot",
+  "permalink": "/docs/dot",
+  "navigation": {
+    "previous": {
+      "title": "Εισαγωγή",
+      "permalink": "/docs/docs"
+    },
+    "next": {
+      "title": "Τι είναι το Polkadot",
+      "permalink": "/docs/whatisdot/whatisdot"
+    }
+  }
+}
