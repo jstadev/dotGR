@@ -79,6 +79,7 @@ const config = {
         logo: {
           alt: 'Polkadot Greece',
           src: 'img/logogr.png',
+          
         },
         items: [
           {

@@ -52,7 +52,7 @@
 
 /* bug sto bg  */
 html, body {
-  height:100vh !important;
+  height:auto !important;
 }
 
 body {
@@ -98,6 +98,10 @@ body::after {
   bottom: 0;
   animation: morph 10s linear infinite alternate, spin 26s linear infinite reverse;
   transform-origin: 20% 20%; 
+}
+
+.navbar__brand {
+  pointer-events: none;
 }
 
 
@@ -639,6 +643,7 @@ margin-bottom: 5px;
 
 .footer {
   padding: 10px 20px 20px;
+  background: transparent !important;
 }
 
 .footer__copyright {
