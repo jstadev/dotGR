@@ -636,6 +636,10 @@ margin-bottom: 5px;
 
 }
 
+.footer {
+  padding: 20px 20px 50px;
+}
+
 .footer__copyright {
   font-size: 12px;
   text-align: left !important;
