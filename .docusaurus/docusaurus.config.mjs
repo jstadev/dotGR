@@ -6,7 +6,7 @@
 export default {
   "title": "Polkadot Greece",
   "tagline": "polkadotgreece",
-  "favicon": "./static/img/logogr.png",
+  "favicon": "img/logogr.ico",
   "url": "https://polkadotgreece.com",
   "baseUrl": "/",
   "organizationName": "Polkadotgreece",
