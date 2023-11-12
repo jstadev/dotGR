@@ -301,7 +301,7 @@ li.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-1.menu__list-it
 /* --------------------- Slider -------------------- */
 
 ol, li {
-  list-style: none;
+  /* list-style: none; */
   margin: 0;
   padding: 0;
 }
