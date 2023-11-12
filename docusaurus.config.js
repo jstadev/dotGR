@@ -98,6 +98,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            // title: 'Contact',
+            items: [
+              {
+                label: 'Contact',
+                to: 'https://twitter.com/Cris_Pap8',
+              }
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Polkadot Greece.`,
       },

@@ -51,8 +51,7 @@
 }
 
 html, body {
-  height: 100% !important;
-  /* overflow-y: hidden !important; */
+  height:150vh !important;
 }
 
 body {
@@ -93,11 +92,33 @@ body::after {
   width: 70vmin;
   height: 70vmin;
   left: auto;
-  right: -10vmin;
+  /* right: -10vmin; */
   top: auto;
   bottom: 0;
   animation: morph 10s linear infinite alternate, spin 26s linear infinite reverse;
   transform-origin: 20% 20%; 
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: grey; 
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: black; 
 }
 
 @-webkit-keyframes Gradient {
@@ -282,7 +303,7 @@ ol, li {
 
 .carousel {
   position: relative;
-  padding-top: 26%;
+  padding-top: 29%;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
   margin-top: 45px;
@@ -473,7 +494,7 @@ border-radius: 50%;
 }
 
 .profile-image-4{
-  background-image: url('/static/img/pfps/goku.jpg');
+  background-image: url('/static/img/pfps/gavin.jpg');
 }
 
 .profile-image-5{
@@ -497,7 +518,7 @@ border-radius: 50%;
 }
 
 .profile-image-10{
-  background-image: url('/static/img/pfps/csaint.jpg');
+  background-image: url('/static/img/pfps/leemo.jpg');
 }
 
 .profile-image-11{
@@ -505,6 +526,22 @@ border-radius: 50%;
 }
 
 .profile-image-12{
+  background-image: url('/static/img/pfps/polkadot.jpg');
+}
+
+.profile-image-13{
+  background-image: url('/static/img/pfps/goku.jpg');
+}
+
+.profile-image-14{
+  background-image: url('/static/img/pfps/cris.jpg');
+}
+
+.profile-image-15{
+  background-image: url('/static/img/pfps/taylor.jpg');
+}
+
+.profile-image-16{
   background-image: url('/static/img/pfps/stash.jpg');
 }
 
@@ -601,6 +638,16 @@ margin-bottom: 5px;
 
 .footer__copyright {
   font-size: 12px;
+  text-align: left !important;
+}
+
+.footer__links{
+  text-align: right;
+  position: inherit;
+  right: 5%;
+  bottom: 10px;
+  font-size: 12px;
+  height: 0px;
 }
 
 
@@ -636,7 +683,9 @@ margin-bottom: 5px;
   background-color: #005aad;
 }
 
-
+.navbar__item{
+  display: none !important;
+}
 
 
 .toggleButton_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
@@ -646,6 +695,12 @@ margin-bottom: 5px;
 @media only screen and (max-width: 600px) {
   body{
     width: 100vw;
+  }
+
+  .footer__links {
+    bottom: -35px;
+    height: 0;
+    position: inherit;
   }
 
   .carousel {

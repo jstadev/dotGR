@@ -1,13 +1,18 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import logo from '../../static/img/logogr.png'
+import frontStyle from './front.css'
 
-export default function Hello() {
+export default function frontpage() {
   return (
-    <Layout title="PolkadotGreece" description="Η πρώτη βιβλιοθήκη για το Polkadot">
-      <style>
-        
-      </style>
+    
+    <Layout title="PolkadotGreece" description="Η πρώτη βιβλιοθήκη για το Polkadot" style={
+      {
+        height:'100vh !important'
+
+      }
+    }>
+      
       <div
         style={{
           display: 'flex',
@@ -33,5 +38,6 @@ export default function Hello() {
         </div>
       </div>
     </Layout>
+    
   );
 }

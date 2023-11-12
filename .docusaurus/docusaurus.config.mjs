@@ -66,7 +66,17 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [],
+      "links": [
+        {
+          "items": [
+            {
+              "label": "Contact",
+              "to": "https://twitter.com/Cris_Pap8"
+            }
+          ],
+          "title": null
+        }
+      ],
       "copyright": "Copyright © 2023 Polkadot Greece."
     },
     "colorMode": {

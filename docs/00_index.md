@@ -45,14 +45,14 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="following"><b >130</b><br/>Following</p>
         <p class="followers"><b>20.6K</b><br/>Followers</p>
          </div>
-         </a>  <a href="https://twitter.com/0xgoku_" target="_blank">
+         </a>  <a href="https://twitter.com/gavofyork" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-4">
         </div>
-        <p class="username">Goku</p>
-        <p class="bio">Dances with all ecosystems but enjoys florting with ...</p>
-        <p class="following"><b >1487</b><br/>Following</p>
-        <p class="followers"><b>2127</b><br/>Followers</p>
+        <p class="username">Gavin Wood</p>
+        <p class="bio">Founded Polkadot, Kusama, Ethereum, Parity, Web3 ...</p>
+        <p class="following"><b >156</b><br/>Following</p>
+        <p class="followers"><b>396K</b><br/>Followers</p>
          </div>
          </a>
       <div class="carousel__snapper">
@@ -122,14 +122,14 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>1774</b><br/>Followers</p>
          </div>
          </a>
-         <a href="https://twitter.com/csaint02" target="_blank">
+         <a href="https://twitter.com/LeemoXD" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-10">
         </div>
-        <p class="username">Csaint</p>
-        <p class="bio">Follow to stay up to date on @Polkadot | @ChaosDAO ...</p>
-        <p class="following"><b >561</b><br/>Following</p>
-        <p class="followers"><b>3951</b><br/>Followers</p>
+        <p class="username">Leemo</p>
+        <p class="bio">Chief Nice Officer @NovaWalletApp Doing cool  ...</p>
+        <p class="following"><b >599</b><br/>Following</p>
+        <p class="followers"><b>2069</b><br/>Followers</p>
          </div>
          </a>
          <a href="https://twitter.com/KusamaNFT" target="_blank">
@@ -142,14 +142,14 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>1085</b><br/>Followers</p>
          </div>
          </a>
-         <a href="https://twitter.com/guinnessstache" target="_blank">
+         <a href="https://twitter.com/Polkadot" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-12">
         </div>
-        <p class="username">GuinnessStache</p>
-        <p class="bio">Investor and staker. $dot $trac $otp</p>
-        <p class="following"><b >3028</b><br/>Following</p>
-        <p class="followers"><b>4096</b><br/>Followers</p>
+        <p class="username">Polkadot</p>
+        <p class="bio">The blockspace ecosystem for boundless innovation ...</p>
+        <p class="following"><b >4</b><br/>Following</p>
+        <p class="followers"><b>1.4M</b><br/>Followers</p>
          </div>
          </a>
       <div class="carousel__snapper"></div>
@@ -161,39 +161,39 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
 <li id="carousel__slide4"
         tabindex="0"
         class="carousel__slide">
-         <a href="https://twitter.com/guinnessstache" target="_blank">
+         <a href="https://twitter.com/0xgoku_" target="_blank">
         <div class="profile"> 
-        <div class="pfp-image profile-image-12">
+        <div class="pfp-image profile-image-13">
         </div>
-        <p class="username">kala</p>
-        <p class="bio">kala</p>
-        <p class="following"><b >kala</b><br/>Following</p>
-        <p class="followers"><b>4096</b><br/>Followers</p>
+        <p class="username">Goku</p>
+        <p class="bio">Dances with all ecosystems but enjoys florting with ...</p>
+        <p class="following"><b >1487</b><br/>Following</p>
+        <p class="followers"><b>2127</b><br/>Followers</p>
+         </div>
+         </a>
+           <a href="https://twitter.com/Cris_Pap8" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-14">
+        </div>
+        <p class="username">Cris Pap</p>
+        <p class="bio">All things @Polkadot 🟣 | Co-Founder & PR @ChaosDAO ...</p>
+        <p class="following"><b >972</b><br/>Following</p>
+        <p class="followers"><b>2843</b><br/>Followers</p>
+         </div>
+         </a>
+           <a href="https://twitter.com/0xTaylor_" target="_blank">
+        <div class="profile"> 
+        <div class="pfp-image profile-image-15">
+        </div>
+        <p class="username">0xTaylor</p>
+        <p class="bio">Web2 Sec in the streets, Web3 Sec in the sheets ...</p>
+        <p class="following"><b >1418</b><br/>Following</p>
+        <p class="followers"><b>3299</b><br/>Followers</p>
          </div>
          </a>
            <a href="https://twitter.com/guinnessstache" target="_blank">
         <div class="profile"> 
-        <div class="pfp-image profile-image-12">
-        </div>
-        <p class="username">kala</p>
-        <p class="bio">kala</p>
-        <p class="following"><b >kala</b><br/>Following</p>
-        <p class="followers"><b>4096</b><br/>Followers</p>
-         </div>
-         </a>
-           <a href="https://twitter.com/guinnessstache" target="_blank">
-        <div class="profile"> 
-        <div class="pfp-image profile-image-12">
-        </div>
-        <p class="username">kala</p>
-        <p class="bio">kala</p>
-        <p class="following"><b >kala</b><br/>Following</p>
-        <p class="followers"><b>4096</b><br/>Followers</p>
-         </div>
-         </a>
-           <a href="https://twitter.com/guinnessstache" target="_blank">
-        <div class="profile"> 
-        <div class="pfp-image profile-image-12">
+        <div class="pfp-image profile-image-16">
         </div>
         <p class="username">GuinnessStache</p>
         <p class="bio">Investor and staker. $dot $trac $otp</p>
