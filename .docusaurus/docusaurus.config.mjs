@@ -59,7 +59,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "."
+          "label": "Εισαγωγή"
         }
       ],
       "hideOnScroll": false
