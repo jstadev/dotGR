@@ -216,7 +216,7 @@
     "security/Basic": {
       "id": "security/Basic",
       "title": "Βασικοί Κανόνες",
-      "description": "- Ποτέ μα ποτέ, ποτέ μην μοιραστείτε το seed phrase ή τον κωδικό του λογαριασμού σας.",
+      "description": "- Ποτέ μα ποτέ, μην μοιραστείτε το seed phrase ή τον κωδικό του λογαριασμού σας.",
       "sidebar": "tutorialSidebar"
     },
     "security/Προσωπική Ασφάλεια": {
@@ -228,7 +228,7 @@
     "staking/Nomination": {
       "id": "staking/Nomination",
       "title": "Nomination Pools",
-      "description": "Αν θέλεις να βάλεις τα DOT νομίσματά σου να δουλεύουν για σένα, δίνοντάς σου παθητικό εισόδημα, που μπορεί να φτάσει μέχρι και 16% σε ετήσια απόδοση, τότε, σίγουρα θα πρέπει να εξερευνήσεις τα \"Nomination Pools\" (σύνδεσμος στη λέξη) στο Polkadot.",
+      "description": "Αν θέλεις να βάλεις τα DOT νομίσματά σου να δουλεύουν για σένα, δίνοντάς σου παθητικό εισόδημα, που μπορεί να φτάσει μέχρι και 16% σε ετήσια απόδοση, τότε, σίγουρα θα πρέπει να εξερευνήσεις τα \"Nomination Pools\" στο Polkadot.",
       "sidebar": "tutorialSidebar"
     },
     "staking/philoshophy": {

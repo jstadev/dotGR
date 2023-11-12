@@ -2,7 +2,7 @@
   "unversionedId": "security/Basic",
   "id": "security/Basic",
   "title": "Βασικοί Κανόνες",
-  "description": "- Ποτέ μα ποτέ, ποτέ μην μοιραστείτε το seed phrase ή τον κωδικό του λογαριασμού σας.",
+  "description": "- Ποτέ μα ποτέ, μην μοιραστείτε το seed phrase ή τον κωδικό του λογαριασμού σας.",
   "source": "@site/docs/06_security/Basic.md",
   "sourceDirName": "06_security",
   "slug": "/security/Basic",
