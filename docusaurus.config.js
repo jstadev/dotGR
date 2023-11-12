@@ -8,7 +8,7 @@
 const config = {
   title: 'Polkadot Greece',
   tagline: 'polkadotgreece',
-  favicon: 'img/logogr.ico',
+  favicon: '/img/logogr.ico',
 
   // Set the production url of your site here
   url: 'https://polkadotgreece.com',
