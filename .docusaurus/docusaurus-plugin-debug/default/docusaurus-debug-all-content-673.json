@@ -158,14 +158,14 @@
               "description": "Κάλως ήρθατε στο Polkadot Greece!",
               "source": "@site/docs/00_index.md",
               "sourceDirName": ".",
-              "slug": "/index",
-              "permalink": "/index",
+              "slug": "/docs",
+              "permalink": "/docs",
               "draft": false,
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
               "frontMatter": {
-                "slug": "/index"
+                "slug": "/docs"
               },
               "sidebar": "tutorialSidebar",
               "next": {
