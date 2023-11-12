@@ -15,7 +15,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
 
-  baseUrl: '/',
+  baseUrl: "/",
 
 
   // GitHub pages deployment config.
@@ -87,12 +87,7 @@ const config = {
             position: 'left',
             label: '.',
           },
-          // {to: '/blog', label: 'Updates', position: 'right'},
-          // {
-          //   href: 'https://github.com/Polkalytics/Polkadot-Data-Knowledge-Base',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+        
         ],
       },
       footer: {

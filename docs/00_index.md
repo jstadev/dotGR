@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /index
 ---
 # Εισαγωγή
 
@@ -193,14 +193,14 @@ Tο Polkadot είναι ένα blockchain layer-0 proof-of-stake,  που συν
         <p class="followers"><b>3299</b><br/>Followers</p>
          </div>
          </a>
-           <a href="https://twitter.com/guinnessstache" target="_blank">
+           <a href="https://twitter.com/csaint02" target="_blank">
         <div class="profile"> 
         <div class="pfp-image profile-image-16">
         </div>
-        <p class="username">GuinnessStache</p>
-        <p class="bio">Investor and staker. $dot $trac $otp</p>
-        <p class="following"><b >3028</b><br/>Following</p>
-        <p class="followers"><b>4096</b><br/>Followers</p>
+        <p class="username">Csaint02</p>
+        <p class="bio">Follow to stay up to date on @Polkadot ...</p>
+        <p class="following"><b >561</b><br/>Following</p>
+        <p class="followers"><b>3949</b><br/>Followers</p>
          </div>
          </a>
       <div class="carousel__snapper"></div>

@@ -69,14 +69,8 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '3bb'),
+    component: ComponentCreator('/', '778'),
     routes: [
-      {
-        path: '/',
-        component: ComponentCreator('/', '057'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/developers/dev',
         component: ComponentCreator('/developers/dev', '4d8'),
@@ -134,6 +128,12 @@ export default [
       {
         path: '/features/shared',
         component: ComponentCreator('/features/shared', '382'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/index',
+        component: ComponentCreator('/index', 'd01'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
