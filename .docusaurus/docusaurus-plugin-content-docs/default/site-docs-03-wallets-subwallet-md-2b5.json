@@ -6,7 +6,7 @@
   "source": "@site/docs/03_wallets/subwallet.md",
   "sourceDirName": "03_wallets",
   "slug": "/wallets/subwallet",
-  "permalink": "/wallets/subwallet",
+  "permalink": "/dot/wallets/subwallet",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nova Wallet",
-    "permalink": "/wallets/nova-wallet"
+    "permalink": "/dot/wallets/nova-wallet"
   },
   "next": {
     "title": "Talisman",
-    "permalink": "/wallets/talisman"
+    "permalink": "/dot/wallets/talisman"
   }
 }

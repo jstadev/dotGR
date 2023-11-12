@@ -1,0 +1,16 @@
+{
+  "title": "Πορτοφόλια",
+  "description": "Τα πιο γνωστά πορτοφόλια στο polkadot",
+  "slug": "wallets",
+  "permalink": "/dot/wallets",
+  "navigation": {
+    "previous": {
+      "title": "DOT Κρυπτονόμισμα",
+      "permalink": "/dot/dotcoin/dotcoin"
+    },
+    "next": {
+      "title": "PolkadotJs",
+      "permalink": "/dot/wallets/PolkadotJS"
+    }
+  }
+}

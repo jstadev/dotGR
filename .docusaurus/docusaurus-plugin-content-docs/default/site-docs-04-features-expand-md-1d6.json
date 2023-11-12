@@ -6,7 +6,7 @@
   "source": "@site/docs/04_features/expand.md",
   "sourceDirName": "04_features",
   "slug": "/features/expand",
-  "permalink": "/features/expand",
+  "permalink": "/dot/features/expand",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Χαρακτηριστικά",
-    "permalink": "/features"
+    "permalink": "/dot/features"
   },
   "next": {
     "title": "Forkless Upgradability",
-    "permalink": "/features/forkless"
+    "permalink": "/dot/features/forkless"
   }
 }
