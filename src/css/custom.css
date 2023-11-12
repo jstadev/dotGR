@@ -50,6 +50,7 @@
   --ifm-color-primary-lightest: #ebf3ff;
 }
 
+/* bug sto bg  */
 html, body {
   height:100vh !important;
 }
@@ -542,7 +543,7 @@ border-radius: 50%;
 }
 
 .profile-image-16{
-  background-image: url('/static/img/pfps/stash.jpg');
+  background-image: url('/static/img/pfps/csaint.jpg');
 }
 
 
