@@ -1,201 +1,201 @@
 {
-  "/docs/__docusaurus/debug-3ea": {
+  "/__docusaurus/debug-a9a": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/__docusaurus/debug/config-200": {
+  "/__docusaurus/debug/config-f8f": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/__docusaurus/debug/content-77c": {
+  "/__docusaurus/debug/content-499": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     },
-    "allContent": "allContent---dot-docusaurus-debug-content-246-fd0"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/docs/__docusaurus/debug/globalData-54c": {
+  "/__docusaurus/debug/globalData-8c6": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/__docusaurus/debug/metadata-bee": {
+  "/__docusaurus/debug/metadata-aad": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/__docusaurus/debug/registry-d22": {
+  "/__docusaurus/debug/registry-94d": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/__docusaurus/debug/routes-895": {
+  "/__docusaurus/debug/routes-659": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---dot-docusaurus-debug-530-10c"
+      "plugin": "plugin---docusaurus-debug-530-2a1"
     }
   },
-  "/docs/blog-e1a": {
+  "/blog-2f7": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---dot-blog-2-c-5-cac"
+      "plugin": "plugin---blog-2-c-5-898"
     },
-    "sidebar": "sidebar---dot-blog-814-2b7",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---dot-blog-105-965"
+        "content": "content---blog-105-ec8"
       },
       {
-        "content": "content---dot-blogc-61-d03"
+        "content": "content---blogc-61-4c0"
       },
       {
-        "content": "content---dot-blog-132-f90"
+        "content": "content---blog-132-ec3"
       }
     ],
-    "metadata": "metadata---docs-blog-6-e-5-255"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/docs/blog/2023/08/13/blog-c8b": {
+  "/blog/2023/08/13/blog-b1a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---dot-blog-2-c-5-cac"
+      "plugin": "plugin---blog-2-c-5-898"
     },
-    "sidebar": "sidebar---dot-blog-814-2b7",
-    "content": "content---dot-blog-2023-08-13-blog-1-ae-0c9"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-08-13-blog-1-ae-2a7"
   },
-  "/docs/blog/2023/08/18/blog-955": {
+  "/blog/2023/08/18/blog-2d5": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---dot-blog-2-c-5-cac"
+      "plugin": "plugin---blog-2-c-5-898"
     },
-    "sidebar": "sidebar---dot-blog-814-2b7",
-    "content": "content---dot-blog-2023-08-18-blogb-3-e-609"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-08-18-blogb-3-e-05f"
   },
-  "/docs/blog/2023/09/23/blog copy-7e7": {
+  "/blog/2023/09/23/blog copy-807": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---dot-blog-2-c-5-cac"
+      "plugin": "plugin---blog-2-c-5-898"
     },
-    "sidebar": "sidebar---dot-blog-814-2b7",
-    "content": "content---dot-blog-2023-09-23-blog-copyef-0-caa"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-09-23-blog-copyef-0-426"
   },
-  "/docs/blog/archive-b73": {
+  "/blog/archive-c43": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---dot-blog-2-c-5-cac"
+      "plugin": "plugin---blog-2-c-5-898"
     },
-    "archive": "archive---docs-blog-archivee-14-c5f"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/docs/front-5aa": {
+  "/front-0b6": {
     "__comp": "__comp---site-src-pages-front-js-8-d-5-77e",
     "__context": {
-      "plugin": "plugin---dot-frontb-4-c-1a6"
+      "plugin": "plugin---frontb-4-c-c34"
     },
-    "config": "config---dot-front-5-e-9-59a"
+    "config": "config---front-5-e-9-4b6"
   },
-  "/docs/-e0e": {
+  "/-e94": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---dot-da-2-cd8"
+      "plugin": "plugin---da-2-3c0"
     },
-    "versionMetadata": "versionMetadata---dot-935-d5a"
+    "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/docs/developers/dev-496": {
+  "/developers/dev-4d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-developers-dev-938-8ca"
+    "content": "content---developers-dev-938-b96"
   },
-  "/docs/devs-c28": {
+  "/devs-e06": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-devs-948-587"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---devsa-45-993"
   },
-  "/docs/docs-060": {
+  "/docs-2c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-afd-621"
+    "content": "content---docsafd-59c"
   },
-  "/docs/dot-9b4": {
+  "/dot-0c6": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-dot-34-f-49f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---dotbbd-143"
   },
-  "/docs/dotcoin-b75": {
+  "/dotcoin-8b2": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-dotcoin-33-c-381"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---dotcoin-09-e-64b"
   },
-  "/docs/dotcoin/dotcoin-4a5": {
+  "/dotcoin/dotcoin-d53": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-dotcoin-dotcoin-34-f-7a3"
+    "content": "content---dotcoin-dotcoin-34-f-172"
   },
-  "/docs/features-9b7": {
+  "/features-d05": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-features-152-611"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---features-68-c-07b"
   },
-  "/docs/features/expand-6c1": {
+  "/features/expand-ccb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-features-expand-1-d-6-0da"
+    "content": "content---features-expand-1-d-6-a1a"
   },
-  "/docs/features/forkless-883": {
+  "/features/forkless-3cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-features-forkless-907-1ad"
+    "content": "content---features-forkless-907-49c"
   },
-  "/docs/features/interoperability-c6f": {
+  "/features/interoperability-6f5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-features-interoperabilityc-25-e3f"
+    "content": "content---features-interoperabilityc-25-d5d"
   },
-  "/docs/features/shared-98d": {
+  "/features/shared-382": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-features-shared-66-e-ecd"
+    "content": "content---features-shared-66-e-087"
   },
-  "/docs/security-c70": {
+  "/security-f77": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-securityd-7-e-463"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---securityfe-2-5a0"
   },
-  "/docs/security/Basic-496": {
+  "/security/Basic-b14": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-security-basic-54-d-e4f"
+    "content": "content---security-basic-54-d-dc8"
   },
-  "/docs/security/Προσωπική Ασφάλεια-d04": {
+  "/security/Προσωπική Ασφάλεια-c42": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-security-προσωπική-ασφάλεια-470-bca"
+    "content": "content---security-προσωπική-ασφάλεια-470-2d0"
   },
-  "/docs/staking-d4f": {
+  "/staking-425": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-staking-9-a-1-76a"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---staking-9-dd-87c"
   },
-  "/docs/staking/Nomination-c75": {
+  "/staking/Nomination-41e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-staking-nomination-52-e-321"
+    "content": "content---staking-nomination-52-e-957"
   },
-  "/docs/staking/philoshophy-576": {
+  "/staking/philoshophy-79f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-staking-philoshophyfbf-86c"
+    "content": "content---staking-philoshophyfbf-4ad"
   },
-  "/docs/wallets-386": {
+  "/wallets-026": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-walletsb-1-d-023"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---walletsba-3-377"
   },
-  "/docs/wallets/nova-wallet-d88": {
+  "/wallets/nova-wallet-f45": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-wallets-nova-wallet-09-c-6b5"
+    "content": "content---wallets-nova-wallet-09-c-b45"
   },
-  "/docs/wallets/PolkadotJS-bc6": {
+  "/wallets/PolkadotJS-423": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-wallets-polkadot-js-971-780"
+    "content": "content---wallets-polkadot-js-971-89f"
   },
-  "/docs/wallets/subwallet-f26": {
+  "/wallets/subwallet-758": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-wallets-subwallet-2-b-5-402"
+    "content": "content---wallets-subwallet-2-b-5-c0d"
   },
-  "/docs/wallets/talisman-f80": {
+  "/wallets/talisman-6fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-wallets-talisman-68-e-3c9"
+    "content": "content---wallets-talisman-68-e-1f3"
   },
-  "/docs/whatisdot/whatisdot-ef3": {
+  "/whatisdot/whatisdot-401": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dot-whatisdot-whatisdotb-04-5cf"
+    "content": "content---whatisdot-whatisdotb-04-76e"
   }
 }

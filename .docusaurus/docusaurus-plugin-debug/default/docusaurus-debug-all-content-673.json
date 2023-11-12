@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs/",
-          "tagsPath": "/docs/tags",
+          "path": "/",
+          "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/petk/Desktop/dotGR/sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/07_developers/dev.md",
               "sourceDirName": "07_developers",
               "slug": "/developers/dev",
-              "permalink": "/docs/developers/dev",
+              "permalink": "/developers/dev",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -33,7 +33,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Προγραμματιστές",
-                "permalink": "/docs/devs"
+                "permalink": "/devs"
               }
             },
             {
@@ -44,7 +44,7 @@
               "source": "@site/docs/02_dotcoin/dotcoin.md",
               "sourceDirName": "02_dotcoin",
               "slug": "/dotcoin/dotcoin",
-              "permalink": "/docs/dotcoin/dotcoin",
+              "permalink": "/dotcoin/dotcoin",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -52,11 +52,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": " DOT Νόμισμα",
-                "permalink": "/docs/dotcoin"
+                "permalink": "/dotcoin"
               },
               "next": {
                 "title": "Πορτοφόλια",
-                "permalink": "/docs/wallets"
+                "permalink": "/wallets"
               }
             },
             {
@@ -67,7 +67,7 @@
               "source": "@site/docs/04_features/expand.md",
               "sourceDirName": "04_features",
               "slug": "/features/expand",
-              "permalink": "/docs/features/expand",
+              "permalink": "/features/expand",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -75,11 +75,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Χαρακτηριστικά",
-                "permalink": "/docs/features"
+                "permalink": "/features"
               },
               "next": {
                 "title": "Forkless Upgradability",
-                "permalink": "/docs/features/forkless"
+                "permalink": "/features/forkless"
               }
             },
             {
@@ -90,7 +90,7 @@
               "source": "@site/docs/04_features/forkless.md",
               "sourceDirName": "04_features",
               "slug": "/features/forkless",
-              "permalink": "/docs/features/forkless",
+              "permalink": "/features/forkless",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -98,11 +98,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Επεκτασιμότητα",
-                "permalink": "/docs/features/expand"
+                "permalink": "/features/expand"
               },
               "next": {
                 "title": "Διαλειτουργικότητα",
-                "permalink": "/docs/features/interoperability"
+                "permalink": "/features/interoperability"
               }
             },
             {
@@ -113,7 +113,7 @@
               "source": "@site/docs/04_features/interoperability.md",
               "sourceDirName": "04_features",
               "slug": "/features/interoperability",
-              "permalink": "/docs/features/interoperability",
+              "permalink": "/features/interoperability",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -121,11 +121,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Forkless Upgradability",
-                "permalink": "/docs/features/forkless"
+                "permalink": "/features/forkless"
               },
               "next": {
                 "title": "Κοινή ασφάλεια",
-                "permalink": "/docs/features/shared"
+                "permalink": "/features/shared"
               }
             },
             {
@@ -136,7 +136,7 @@
               "source": "@site/docs/04_features/shared.md",
               "sourceDirName": "04_features",
               "slug": "/features/shared",
-              "permalink": "/docs/features/shared",
+              "permalink": "/features/shared",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -144,11 +144,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Διαλειτουργικότητα",
-                "permalink": "/docs/features/interoperability"
+                "permalink": "/features/interoperability"
               },
               "next": {
                 "title": "Staking",
-                "permalink": "/docs/staking"
+                "permalink": "/staking"
               }
             },
             {
@@ -159,7 +159,7 @@
               "source": "@site/docs/00_index.md",
               "sourceDirName": ".",
               "slug": "/docs",
-              "permalink": "/docs/docs",
+              "permalink": "/docs",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -170,7 +170,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Το Polkadot",
-                "permalink": "/docs/dot"
+                "permalink": "/dot"
               }
             },
             {
@@ -181,7 +181,7 @@
               "source": "@site/docs/06_security/Basic.md",
               "sourceDirName": "06_security",
               "slug": "/security/Basic",
-              "permalink": "/docs/security/Basic",
+              "permalink": "/security/Basic",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -189,11 +189,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Ασφάλεια",
-                "permalink": "/docs/security"
+                "permalink": "/security"
               },
               "next": {
                 "title": "Προσωπική Ασφάλεια",
-                "permalink": "/docs/security/Προσωπική Ασφάλεια"
+                "permalink": "/security/Προσωπική Ασφάλεια"
               }
             },
             {
@@ -204,7 +204,7 @@
               "source": "@site/docs/06_security/Προσωπική Ασφάλεια.md",
               "sourceDirName": "06_security",
               "slug": "/security/Προσωπική Ασφάλεια",
-              "permalink": "/docs/security/Προσωπική Ασφάλεια",
+              "permalink": "/security/Προσωπική Ασφάλεια",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -212,11 +212,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Βασικοί Κανόνες",
-                "permalink": "/docs/security/Basic"
+                "permalink": "/security/Basic"
               },
               "next": {
                 "title": "Προγραμματιστές",
-                "permalink": "/docs/devs"
+                "permalink": "/devs"
               }
             },
             {
@@ -227,7 +227,7 @@
               "source": "@site/docs/05_staking/Nomination.md",
               "sourceDirName": "05_staking",
               "slug": "/staking/Nomination",
-              "permalink": "/docs/staking/Nomination",
+              "permalink": "/staking/Nomination",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -235,11 +235,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Staking",
-                "permalink": "/docs/staking"
+                "permalink": "/staking"
               },
               "next": {
                 "title": "Η Φιλοσοφία",
-                "permalink": "/docs/staking/philoshophy"
+                "permalink": "/staking/philoshophy"
               }
             },
             {
@@ -250,7 +250,7 @@
               "source": "@site/docs/05_staking/philoshophy.md",
               "sourceDirName": "05_staking",
               "slug": "/staking/philoshophy",
-              "permalink": "/docs/staking/philoshophy",
+              "permalink": "/staking/philoshophy",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -258,11 +258,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Nomination Pools",
-                "permalink": "/docs/staking/Nomination"
+                "permalink": "/staking/Nomination"
               },
               "next": {
                 "title": "Ασφάλεια",
-                "permalink": "/docs/security"
+                "permalink": "/security"
               }
             },
             {
@@ -273,7 +273,7 @@
               "source": "@site/docs/03_wallets/nova-wallet.md",
               "sourceDirName": "03_wallets",
               "slug": "/wallets/nova-wallet",
-              "permalink": "/docs/wallets/nova-wallet",
+              "permalink": "/wallets/nova-wallet",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -281,11 +281,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PolkadotJs",
-                "permalink": "/docs/wallets/PolkadotJS"
+                "permalink": "/wallets/PolkadotJS"
               },
               "next": {
                 "title": "SubWallet",
-                "permalink": "/docs/wallets/subwallet"
+                "permalink": "/wallets/subwallet"
               }
             },
             {
@@ -296,7 +296,7 @@
               "source": "@site/docs/03_wallets/PolkadotJS.md",
               "sourceDirName": "03_wallets",
               "slug": "/wallets/PolkadotJS",
-              "permalink": "/docs/wallets/PolkadotJS",
+              "permalink": "/wallets/PolkadotJS",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -304,11 +304,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Πορτοφόλια",
-                "permalink": "/docs/wallets"
+                "permalink": "/wallets"
               },
               "next": {
                 "title": "Nova Wallet",
-                "permalink": "/docs/wallets/nova-wallet"
+                "permalink": "/wallets/nova-wallet"
               }
             },
             {
@@ -319,7 +319,7 @@
               "source": "@site/docs/03_wallets/subwallet.md",
               "sourceDirName": "03_wallets",
               "slug": "/wallets/subwallet",
-              "permalink": "/docs/wallets/subwallet",
+              "permalink": "/wallets/subwallet",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -327,11 +327,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Nova Wallet",
-                "permalink": "/docs/wallets/nova-wallet"
+                "permalink": "/wallets/nova-wallet"
               },
               "next": {
                 "title": "Talisman",
-                "permalink": "/docs/wallets/talisman"
+                "permalink": "/wallets/talisman"
               }
             },
             {
@@ -342,7 +342,7 @@
               "source": "@site/docs/03_wallets/talisman.md",
               "sourceDirName": "03_wallets",
               "slug": "/wallets/talisman",
-              "permalink": "/docs/wallets/talisman",
+              "permalink": "/wallets/talisman",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -350,11 +350,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "SubWallet",
-                "permalink": "/docs/wallets/subwallet"
+                "permalink": "/wallets/subwallet"
               },
               "next": {
                 "title": "Χαρακτηριστικά",
-                "permalink": "/docs/features"
+                "permalink": "/features"
               }
             },
             {
@@ -365,7 +365,7 @@
               "source": "@site/docs/01_whatisdot/whatisdot.md",
               "sourceDirName": "01_whatisdot",
               "slug": "/whatisdot/whatisdot",
-              "permalink": "/docs/whatisdot/whatisdot",
+              "permalink": "/whatisdot/whatisdot",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -373,11 +373,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Το Polkadot",
-                "permalink": "/docs/dot"
+                "permalink": "/dot"
               },
               "next": {
                 "title": " DOT Νόμισμα",
-                "permalink": "/docs/dotcoin"
+                "permalink": "/dotcoin"
               }
             }
           ],
@@ -402,7 +402,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "dot",
-                  "permalink": "/docs/dot"
+                  "permalink": "/dot"
                 }
               },
               {
@@ -419,7 +419,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "dotcoin",
-                  "permalink": "/docs/dotcoin"
+                  "permalink": "/dotcoin"
                 }
               },
               {
@@ -449,7 +449,7 @@
                   "type": "generated-index",
                   "description": "Τα πιο γνωστά πορτοφόλια στο polkadot",
                   "slug": "wallets",
-                  "permalink": "/docs/wallets"
+                  "permalink": "/wallets"
                 }
               },
               {
@@ -478,7 +478,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "features",
-                  "permalink": "/docs/features"
+                  "permalink": "/features"
                 }
               },
               {
@@ -499,7 +499,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "staking",
-                  "permalink": "/docs/staking"
+                  "permalink": "/staking"
                 }
               },
               {
@@ -520,7 +520,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "security",
-                  "permalink": "/docs/security"
+                  "permalink": "/security"
                 }
               },
               {
@@ -537,7 +537,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "devs",
-                  "permalink": "/docs/devs"
+                  "permalink": "/devs"
                 }
               }
             ]
@@ -553,7 +553,7 @@
         {
           "id": "/2023/09/23/blog copy",
           "metadata": {
-            "permalink": "/docs/blog/2023/09/23/blog copy",
+            "permalink": "/blog/2023/09/23/blog copy",
             "source": "@site/blog/2023-09-23-blog copy.md",
             "title": "Another one",
             "description": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume",
@@ -578,7 +578,7 @@
             },
             "nextItem": {
               "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
-              "permalink": "/docs/blog/2023/08/18/blog"
+              "permalink": "/blog/2023/08/18/blog"
             }
           },
           "content": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume\n\nNext steps:\n- mpam mpoum\n- mpim mpim\n- boum boum\n- tsaka tsoukou"
@@ -586,7 +586,7 @@
         {
           "id": "/2023/08/18/blog",
           "metadata": {
-            "permalink": "/docs/blog/2023/08/18/blog",
+            "permalink": "/blog/2023/08/18/blog",
             "source": "@site/blog/2023-08-18-blog.md",
             "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
             "description": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume",
@@ -611,11 +611,11 @@
             },
             "prevItem": {
               "title": "Another one",
-              "permalink": "/docs/blog/2023/09/23/blog copy"
+              "permalink": "/blog/2023/09/23/blog copy"
             },
             "nextItem": {
               "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
-              "permalink": "/docs/blog/2023/08/13/blog"
+              "permalink": "/blog/2023/08/13/blog"
             }
           },
           "content": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume\n\nNext steps:\n- mpam mpoum\n- mpim mpim\n- boum boum\n- tsaka tsoukou"
@@ -623,7 +623,7 @@
         {
           "id": "/2023/08/13/blog",
           "metadata": {
-            "permalink": "/docs/blog/2023/08/13/blog",
+            "permalink": "/blog/2023/08/13/blog",
             "source": "@site/blog/2023-08-13-blog.md",
             "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
             "description": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume",
@@ -648,7 +648,7 @@
             },
             "prevItem": {
               "title": "Εδώ μπορούν να γίνονται translate άρθρα απο το blog",
-              "permalink": "/docs/blog/2023/08/18/blog"
+              "permalink": "/blog/2023/08/18/blog"
             }
           },
           "content": "kai kala logia na xoume na agiapiomaste kai ta sxetika na oume\n\nNext steps:\n- mpam mpoum\n- mpim mpim\n- boum boum\n- tsaka tsoukou"
@@ -662,7 +662,7 @@
             "/2023/08/13/blog"
           ],
           "metadata": {
-            "permalink": "/docs/blog",
+            "permalink": "/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -673,14 +673,14 @@
         }
       ],
       "blogTags": {},
-      "blogTagsListPath": "/docs/blog/tags"
+      "blogTagsListPath": "/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/docs/front",
+        "permalink": "/front",
         "source": "@site/src/pages/front.js"
       }
     ]

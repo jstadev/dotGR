@@ -6,7 +6,7 @@
   "source": "@site/docs/01_whatisdot/whatisdot.md",
   "sourceDirName": "01_whatisdot",
   "slug": "/whatisdot/whatisdot",
-  "permalink": "/docs/whatisdot/whatisdot",
+  "permalink": "/whatisdot/whatisdot",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Το Polkadot",
-    "permalink": "/docs/dot"
+    "permalink": "/dot"
   },
   "next": {
     "title": " DOT Νόμισμα",
-    "permalink": "/docs/dotcoin"
+    "permalink": "/dotcoin"
   }
 }

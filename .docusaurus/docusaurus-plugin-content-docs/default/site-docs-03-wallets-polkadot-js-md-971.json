@@ -6,7 +6,7 @@
   "source": "@site/docs/03_wallets/PolkadotJS.md",
   "sourceDirName": "03_wallets",
   "slug": "/wallets/PolkadotJS",
-  "permalink": "/docs/wallets/PolkadotJS",
+  "permalink": "/wallets/PolkadotJS",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Πορτοφόλια",
-    "permalink": "/docs/wallets"
+    "permalink": "/wallets"
   },
   "next": {
     "title": "Nova Wallet",
-    "permalink": "/docs/wallets/nova-wallet"
+    "permalink": "/wallets/nova-wallet"
   }
 }

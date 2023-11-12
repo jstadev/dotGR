@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Εισαγωγή",
-        "href": "/docs/docs",
+        "href": "/docs",
         "docId": "index"
       },
       {
@@ -24,11 +24,11 @@
           {
             "type": "link",
             "label": "Τι είναι το Polkadot",
-            "href": "/docs/whatisdot/whatisdot",
+            "href": "/whatisdot/whatisdot",
             "docId": "whatisdot/whatisdot"
           }
         ],
-        "href": "/docs/dot"
+        "href": "/dot"
       },
       {
         "type": "category",
@@ -39,11 +39,11 @@
           {
             "type": "link",
             "label": "DOT Κρυπτονόμισμα",
-            "href": "/docs/dotcoin/dotcoin",
+            "href": "/dotcoin/dotcoin",
             "docId": "dotcoin/dotcoin"
           }
         ],
-        "href": "/docs/dotcoin"
+        "href": "/dotcoin"
       },
       {
         "type": "category",
@@ -54,29 +54,29 @@
           {
             "type": "link",
             "label": "PolkadotJs",
-            "href": "/docs/wallets/PolkadotJS",
+            "href": "/wallets/PolkadotJS",
             "docId": "wallets/PolkadotJS"
           },
           {
             "type": "link",
             "label": "Nova Wallet",
-            "href": "/docs/wallets/nova-wallet",
+            "href": "/wallets/nova-wallet",
             "docId": "wallets/nova-wallet"
           },
           {
             "type": "link",
             "label": "SubWallet",
-            "href": "/docs/wallets/subwallet",
+            "href": "/wallets/subwallet",
             "docId": "wallets/subwallet"
           },
           {
             "type": "link",
             "label": "Talisman",
-            "href": "/docs/wallets/talisman",
+            "href": "/wallets/talisman",
             "docId": "wallets/talisman"
           }
         ],
-        "href": "/docs/wallets"
+        "href": "/wallets"
       },
       {
         "type": "category",
@@ -87,29 +87,29 @@
           {
             "type": "link",
             "label": "Επεκτασιμότητα",
-            "href": "/docs/features/expand",
+            "href": "/features/expand",
             "docId": "features/expand"
           },
           {
             "type": "link",
             "label": "Forkless Upgradability",
-            "href": "/docs/features/forkless",
+            "href": "/features/forkless",
             "docId": "features/forkless"
           },
           {
             "type": "link",
             "label": "Διαλειτουργικότητα",
-            "href": "/docs/features/interoperability",
+            "href": "/features/interoperability",
             "docId": "features/interoperability"
           },
           {
             "type": "link",
             "label": "Κοινή ασφάλεια",
-            "href": "/docs/features/shared",
+            "href": "/features/shared",
             "docId": "features/shared"
           }
         ],
-        "href": "/docs/features"
+        "href": "/features"
       },
       {
         "type": "category",
@@ -120,17 +120,17 @@
           {
             "type": "link",
             "label": "Nomination Pools",
-            "href": "/docs/staking/Nomination",
+            "href": "/staking/Nomination",
             "docId": "staking/Nomination"
           },
           {
             "type": "link",
             "label": "Η Φιλοσοφία",
-            "href": "/docs/staking/philoshophy",
+            "href": "/staking/philoshophy",
             "docId": "staking/philoshophy"
           }
         ],
-        "href": "/docs/staking"
+        "href": "/staking"
       },
       {
         "type": "category",
@@ -141,17 +141,17 @@
           {
             "type": "link",
             "label": "Βασικοί Κανόνες",
-            "href": "/docs/security/Basic",
+            "href": "/security/Basic",
             "docId": "security/Basic"
           },
           {
             "type": "link",
             "label": "Προσωπική Ασφάλεια",
-            "href": "/docs/security/Προσωπική Ασφάλεια",
+            "href": "/security/Προσωπική Ασφάλεια",
             "docId": "security/Προσωπική Ασφάλεια"
           }
         ],
-        "href": "/docs/security"
+        "href": "/security"
       },
       {
         "type": "category",
@@ -162,11 +162,11 @@
           {
             "type": "link",
             "label": "Οδηγίες για Προγραμματιστές",
-            "href": "/docs/developers/dev",
+            "href": "/developers/dev",
             "docId": "developers/dev"
           }
         ],
-        "href": "/docs/devs"
+        "href": "/devs"
       }
     ]
   },

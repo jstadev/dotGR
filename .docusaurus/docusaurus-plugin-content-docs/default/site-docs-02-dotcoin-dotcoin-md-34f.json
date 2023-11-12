@@ -6,7 +6,7 @@
   "source": "@site/docs/02_dotcoin/dotcoin.md",
   "sourceDirName": "02_dotcoin",
   "slug": "/dotcoin/dotcoin",
-  "permalink": "/docs/dotcoin/dotcoin",
+  "permalink": "/dotcoin/dotcoin",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": " DOT Νόμισμα",
-    "permalink": "/docs/dotcoin"
+    "permalink": "/dotcoin"
   },
   "next": {
     "title": "Πορτοφόλια",
-    "permalink": "/docs/wallets"
+    "permalink": "/wallets"
   }
 }
