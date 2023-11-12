@@ -29,7 +29,7 @@ export default function frontpage() {
     <h1>Polkadot Greece</h1>
     <p>Η πρωτη βιβλιοθηκη στα<br/> ελληνικα για το polkadot</p>
     </div>
-    <a href='/index'>
+    <a href='/whatisdot/whatisdot'>
     <button class="btn-default">Εισοδος</button>
     </a>
     
