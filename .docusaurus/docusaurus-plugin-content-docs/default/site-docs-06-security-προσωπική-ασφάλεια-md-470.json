@@ -6,7 +6,7 @@
   "source": "@site/docs/06_security/Προσωπική Ασφάλεια.md",
   "sourceDirName": "06_security",
   "slug": "/security/Προσωπική Ασφάλεια",
-  "permalink": "/security/Προσωπική Ασφάλεια",
+  "permalink": "/dot/security/Προσωπική Ασφάλεια",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Βασικοί Κανόνες",
-    "permalink": "/security/Basic"
+    "permalink": "/dot/security/Basic"
   },
   "next": {
     "title": "Προγραμματιστές",
-    "permalink": "/devs"
+    "permalink": "/dot/devs"
   }
 }

@@ -3,209 +3,209 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'a9a'),
+    path: '/dot/__docusaurus/debug',
+    component: ComponentCreator('/dot/__docusaurus/debug', 'cfd'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'f8f'),
+    path: '/dot/__docusaurus/debug/config',
+    component: ComponentCreator('/dot/__docusaurus/debug/config', '4b0'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '499'),
+    path: '/dot/__docusaurus/debug/content',
+    component: ComponentCreator('/dot/__docusaurus/debug/content', '482'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '8c6'),
+    path: '/dot/__docusaurus/debug/globalData',
+    component: ComponentCreator('/dot/__docusaurus/debug/globalData', '491'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'aad'),
+    path: '/dot/__docusaurus/debug/metadata',
+    component: ComponentCreator('/dot/__docusaurus/debug/metadata', '81e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '94d'),
+    path: '/dot/__docusaurus/debug/registry',
+    component: ComponentCreator('/dot/__docusaurus/debug/registry', '15f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '659'),
+    path: '/dot/__docusaurus/debug/routes',
+    component: ComponentCreator('/dot/__docusaurus/debug/routes', 'a62'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '2f7'),
+    path: '/dot/blog',
+    component: ComponentCreator('/dot/blog', '940'),
     exact: true
   },
   {
-    path: '/blog/2023/08/13/blog',
-    component: ComponentCreator('/blog/2023/08/13/blog', 'b1a'),
+    path: '/dot/blog/2023/08/13/blog',
+    component: ComponentCreator('/dot/blog/2023/08/13/blog', 'b5f'),
     exact: true
   },
   {
-    path: '/blog/2023/08/18/blog',
-    component: ComponentCreator('/blog/2023/08/18/blog', '2d5'),
+    path: '/dot/blog/2023/08/18/blog',
+    component: ComponentCreator('/dot/blog/2023/08/18/blog', '117'),
     exact: true
   },
   {
-    path: '/blog/2023/09/23/blog copy',
-    component: ComponentCreator('/blog/2023/09/23/blog copy', '807'),
+    path: '/dot/blog/2023/09/23/blog copy',
+    component: ComponentCreator('/dot/blog/2023/09/23/blog copy', '382'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'c43'),
+    path: '/dot/blog/archive',
+    component: ComponentCreator('/dot/blog/archive', '030'),
     exact: true
   },
   {
-    path: '/front',
-    component: ComponentCreator('/front', '0b6'),
+    path: '/dot/front',
+    component: ComponentCreator('/dot/front', '423'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '3bb'),
+    path: '/dot/',
+    component: ComponentCreator('/dot/', '587'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '057'),
+        path: '/dot/',
+        component: ComponentCreator('/dot/', 'baf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/developers/dev',
-        component: ComponentCreator('/developers/dev', '4d8'),
+        path: '/dot/developers/dev',
+        component: ComponentCreator('/dot/developers/dev', 'f7c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/devs',
-        component: ComponentCreator('/devs', 'e06'),
+        path: '/dot/devs',
+        component: ComponentCreator('/dot/devs', '090'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/dot',
-        component: ComponentCreator('/dot', '0c6'),
+        path: '/dot/dot',
+        component: ComponentCreator('/dot/dot', '6a6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/dotcoin',
-        component: ComponentCreator('/dotcoin', '8b2'),
+        path: '/dot/dotcoin',
+        component: ComponentCreator('/dot/dotcoin', 'ae4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/dotcoin/dotcoin',
-        component: ComponentCreator('/dotcoin/dotcoin', 'd53'),
+        path: '/dot/dotcoin/dotcoin',
+        component: ComponentCreator('/dot/dotcoin/dotcoin', '933'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/features',
-        component: ComponentCreator('/features', 'd05'),
+        path: '/dot/features',
+        component: ComponentCreator('/dot/features', '59d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/features/expand',
-        component: ComponentCreator('/features/expand', 'ccb'),
+        path: '/dot/features/expand',
+        component: ComponentCreator('/dot/features/expand', '55b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/features/forkless',
-        component: ComponentCreator('/features/forkless', '3cc'),
+        path: '/dot/features/forkless',
+        component: ComponentCreator('/dot/features/forkless', 'e7e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/features/interoperability',
-        component: ComponentCreator('/features/interoperability', '6f5'),
+        path: '/dot/features/interoperability',
+        component: ComponentCreator('/dot/features/interoperability', '3cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/features/shared',
-        component: ComponentCreator('/features/shared', '382'),
+        path: '/dot/features/shared',
+        component: ComponentCreator('/dot/features/shared', 'c29'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/security',
-        component: ComponentCreator('/security', 'f77'),
+        path: '/dot/security',
+        component: ComponentCreator('/dot/security', 'efd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/security/Basic',
-        component: ComponentCreator('/security/Basic', 'b14'),
+        path: '/dot/security/Basic',
+        component: ComponentCreator('/dot/security/Basic', 'd43'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/security/Προσωπική Ασφάλεια',
-        component: ComponentCreator('/security/Προσωπική Ασφάλεια', 'c42'),
+        path: '/dot/security/Προσωπική Ασφάλεια',
+        component: ComponentCreator('/dot/security/Προσωπική Ασφάλεια', '7e4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/staking',
-        component: ComponentCreator('/staking', '425'),
+        path: '/dot/staking',
+        component: ComponentCreator('/dot/staking', '30f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/staking/Nomination',
-        component: ComponentCreator('/staking/Nomination', '41e'),
+        path: '/dot/staking/Nomination',
+        component: ComponentCreator('/dot/staking/Nomination', '3c8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/staking/philoshophy',
-        component: ComponentCreator('/staking/philoshophy', '79f'),
+        path: '/dot/staking/philoshophy',
+        component: ComponentCreator('/dot/staking/philoshophy', '886'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wallets',
-        component: ComponentCreator('/wallets', '026'),
+        path: '/dot/wallets',
+        component: ComponentCreator('/dot/wallets', '717'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wallets/nova-wallet',
-        component: ComponentCreator('/wallets/nova-wallet', 'f45'),
+        path: '/dot/wallets/nova-wallet',
+        component: ComponentCreator('/dot/wallets/nova-wallet', 'f55'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wallets/PolkadotJS',
-        component: ComponentCreator('/wallets/PolkadotJS', '423'),
+        path: '/dot/wallets/PolkadotJS',
+        component: ComponentCreator('/dot/wallets/PolkadotJS', '96b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wallets/subwallet',
-        component: ComponentCreator('/wallets/subwallet', '758'),
+        path: '/dot/wallets/subwallet',
+        component: ComponentCreator('/dot/wallets/subwallet', '319'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wallets/talisman',
-        component: ComponentCreator('/wallets/talisman', '6fb'),
+        path: '/dot/wallets/talisman',
+        component: ComponentCreator('/dot/wallets/talisman', '44d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/whatisdot/whatisdot',
-        component: ComponentCreator('/whatisdot/whatisdot', '401'),
+        path: '/dot/whatisdot/whatisdot',
+        component: ComponentCreator('/dot/whatisdot/whatisdot', 'ecd'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
