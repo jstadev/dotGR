@@ -702,6 +702,14 @@ margin-bottom: 5px;
   display: none !important;
 }
 
+.navbar-sidebar__back{
+  display: none;
+}
+
+.carousel li {
+  list-style: none;
+}
+
 @media only screen and (max-width: 600px) {
   body{
     width: 100vw;
