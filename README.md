@@ -1,4 +1,5 @@
 # Polkadot Greece
+An introduction to what polkadot is in Greece. The first Greek library for the polkadot network.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
